@@ -57,6 +57,7 @@ Umbrelloというソフトでクリーンアーキテクチャのベースとな
 ![クラス図](https://github.com/take-t14/laravel-ddd-sample/blob/master/DDDModel/%E3%82%AF%E3%83%A9%E3%82%B9%E5%9B%B3.png)
 
 ### シーケンス図
+![シーケンス図](https://github.com/take-t14/laravel-ddd-sample/blob/master/DDDModel/%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B9%E5%9B%B3.png)
   
 # 自動テスト 
 全機能に対するUnitTestを実装しました。TDDも勉強していた為、実装の過程で実践しました。何度かリファクタリングをしたのですが、その度にグリーン(自動テストオールOK)だったのが、レッド(自動テストオールNG)になりました。そこからグリーンにするまで修正したら、画面テストがキチンと動作する事を確認出来ました。UnitTestで非常に信頼性の高い検証を行える事が、この事から立証出来たと思います。キチンとUnitTestを実装したら、機能追加やリファクタリングを自信を持って行えると思います。 
