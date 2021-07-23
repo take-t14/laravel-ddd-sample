@@ -174,8 +174,8 @@ http://www.take14.shop/ddd/product/list
 http://www.take14.shop/lightddd/product/list  
 - MVC
 http://www.take14.shop/mvc/product/list  
-　　
-####基本認証をかけているので、ご覧になりたい方は以下のID、パスワードをご利用下さい  
+  　　
+#### 基本認証をかけているので、ご覧になりたい方は以下のID、パスワードをご利用下さい  
 
 | ID | パスワード |
 | ---- | ---- |
