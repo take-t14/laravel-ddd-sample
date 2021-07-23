@@ -71,14 +71,15 @@ app/Http/Middleware/PerformanceLog.php
 MVC > 軽量ddd > dddという結果でした。  
   
 ## 結果一覧
-|機能|ddd時間|dddメモリ|軽量ddd時間|軽量dddメモリ|MVC時間|MVCメモリ|
-|商品一覧画面表示|289ms|6299KB|178ms|5049KB|85ms|2735KB|
-|商品詳細画面表示|63ms|650KB|18ms|600KB|23ms|627KB|
-|カート追加API|153ms|419KB|19ms|418KB|51ms|839KB|
-|カート画面表示|36ms|468KB|10ms|382KB|21ms|640KB|
-|注文画面表示|20ms|468KB|9ms|382KB|20ms|640KB|
-|注文バリデーションAPI|34ms|422KB|31ms|506KB|58ms|814KB|
-|注文確定処理|2552ms|1334KB|2517ms|1061KB|1949ms|1376KB|
+| 機能 | ddd時間 | dddメモリ | 軽量ddd時間 | 軽量dddメモリ | MVC時間 | MVCメモリ |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 商品一覧画面表示 | 289ms | 6299KB | 178ms | 5049KB | 85ms | 2735KB |
+| 商品詳細画面表示 | 63ms | 650KB | 18ms | 600KB | 23ms | 627KB |
+| カート追加API | 153ms | 419KB | 19ms | 418KB | 51ms | 839KB |
+| カート画面表示 | 36ms | 468KB | 10ms | 382KB | 21ms | 640KB |
+| 注文画面表示 | 20ms | 468KB | 9ms | 382KB | 20ms | 640KB |
+| 注文バリデーションAPI | 34ms | 422KB | 31ms | 506KB | 58ms | 814KB |
+| 注文確定処理 | 2552ms | 1334KB | 2517ms | 1061KB | 1949ms | 1376KB |
   
 ## エビデンス
 ### ddd
