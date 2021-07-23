@@ -168,13 +168,13 @@ MVC > 軽量ddd > dddという結果でした。
 　　
 # デモサイト
 以下にデモサイトを構築しました。  
-- ddd
+- ddd  
 http://www.take14.shop/ddd/product/list  
-- 軽量ddd
+- 軽量ddd  
 http://www.take14.shop/lightddd/product/list  
-- MVC
+- MVC  
 http://www.take14.shop/mvc/product/list  
-  　　
+  
 #### 基本認証をかけているので、ご覧になりたい方は以下のID、パスワードをご利用下さい  
 
 | ID | パスワード |
