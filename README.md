@@ -90,56 +90,56 @@ MVC > 軽量ddd > dddという結果でした。
 ## エビデンス
 ### ddd
 ```
-[2021-07-23 23:00:19] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\ProductController@list 繝｡繝｢繝ｪ 6298.953125KB  
-[2021-07-23 23:00:19] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\ProductController@list 288.98096084595繝溘Μ遘・ 
-[2021-07-23 23:07:51] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\ProductController@detail 繝｡繝｢繝ｪ 649.6484375KB  
-[2021-07-23 23:07:51] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\ProductController@detail 62.504053115845繝溘Μ遘・ 
-[2021-07-23 23:08:28] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\Api\CartController@add 繝｡繝｢繝ｪ 418.6953125KB  
-[2021-07-23 23:08:28] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\Api\CartController@add 153.38611602783繝溘Μ遘・ 
-[2021-07-23 23:08:28] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\CartController@list 繝｡繝｢繝ｪ 468.3046875KB  
-[2021-07-23 23:08:28] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\CartController@list 36.375999450684繝溘Μ遘・ 
-[2021-07-23 23:09:27] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\OrderController@form 繝｡繝｢繝ｪ 468.3046875KB  
-[2021-07-23 23:09:27] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\OrderController@form 19.876003265381繝溘Μ遘・ 
-[2021-07-23 23:09:37] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@check 繝｡繝｢繝ｪ 421.9609375KB  
-[2021-07-23 23:09:37] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@check 33.753156661987繝溘Μ遘・ 
-[2021-07-23 23:09:44] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@save 繝｡繝｢繝ｪ 1334.2734375KB  
-[2021-07-23 23:09:44] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@save 2552.1411895752繝溘Μ遘・ 
+[2021-07-23 23:00:19] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\ProductController@list メモリ 6298.953125KB  
+[2021-07-23 23:00:19] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\ProductController@list 288.98096084595ミリ秒  
+[2021-07-23 23:07:51] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\ProductController@detail メモリ 649.6484375KB  
+[2021-07-23 23:07:51] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\ProductController@detail 62.504053115845ミリ秒  
+[2021-07-23 23:08:28] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\Api\CartController@add メモリ 418.6953125KB  
+[2021-07-23 23:08:28] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\Api\CartController@add 153.38611602783ミリ秒  
+[2021-07-23 23:08:28] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\CartController@list メモリ 468.3046875KB  
+[2021-07-23 23:08:28] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\CartController@list 36.375999450684ミリ秒  
+[2021-07-23 23:09:27] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\OrderController@form メモリ 468.3046875KB  
+[2021-07-23 23:09:27] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\OrderController@form 19.876003265381ミリ秒  
+[2021-07-23 23:09:37] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@check メモリ 421.9609375KB  
+[2021-07-23 23:09:37] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@check 33.753156661987ミリ秒  
+[2021-07-23 23:09:44] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@save メモリ 1334.2734375KB  
+[2021-07-23 23:09:44] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@save 2552.1411895752ミリ秒  
 ```
   
 ### 軽量ddd
 ```
-[2021-07-23 23:11:33] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\ProductController@list 繝｡繝｢繝ｪ 5049.25KB  
-[2021-07-23 23:11:33] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\ProductController@list 177.73199081421繝溘Μ遘・ 
-[2021-07-23 23:11:36] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\ProductController@detail 繝｡繝｢繝ｪ 600.1328125KB  
-[2021-07-23 23:11:36] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\ProductController@detail 18.326997756958繝溘Μ遘・ 
-[2021-07-23 23:11:38] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\Api\CartController@add 繝｡繝｢繝ｪ 417.765625KB  
-[2021-07-23 23:11:38] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\Api\CartController@add 19.247770309448繝溘Μ遘・ 
-[2021-07-23 23:11:38] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\CartController@list 繝｡繝｢繝ｪ 382.2265625KB  
-[2021-07-23 23:11:38] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\CartController@list 10.499000549316繝溘Μ遘・ 
-[2021-07-23 23:11:40] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\OrderController@form 繝｡繝｢繝ｪ 382.2265625KB  
-[2021-07-23 23:11:40] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\OrderController@form 9.2220306396484繝溘Μ遘・ 
-[2021-07-23 23:11:49] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@check 繝｡繝｢繝ｪ 506.1171875KB  
-[2021-07-23 23:11:49] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@check 30.539989471436繝溘Μ遘・ 
-[2021-07-23 23:11:53] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@save 繝｡繝｢繝ｪ 1061.2578125KB  
-[2021-07-23 23:11:53] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@save 2517.3659324646繝溘Μ遘・ 
+[2021-07-23 23:11:33] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\ProductController@list メモリ 5049.25KB  
+[2021-07-23 23:11:33] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\ProductController@list 177.73199081421ミリ秒  
+[2021-07-23 23:11:36] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\ProductController@detail メモリ 600.1328125KB  
+[2021-07-23 23:11:36] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\ProductController@detail 18.326997756958ミリ秒  
+[2021-07-23 23:11:38] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\Api\CartController@add メモリ 417.765625KB  
+[2021-07-23 23:11:38] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\Api\CartController@add 19.247770309448ミリ秒  
+[2021-07-23 23:11:38] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\CartController@list メモリ 382.2265625KB  
+[2021-07-23 23:11:38] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\CartController@list 10.499000549316ミリ秒  
+[2021-07-23 23:11:40] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\OrderController@form メモリ 382.2265625KB  
+[2021-07-23 23:11:40] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\OrderController@form 9.2220306396484ミリ秒  
+[2021-07-23 23:11:49] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@check メモリ 506.1171875KB  
+[2021-07-23 23:11:49] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@check 30.539989471436ミリ秒  
+[2021-07-23 23:11:53] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@save メモリ 1061.2578125KB  
+[2021-07-23 23:11:53] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@save 2517.3659324646ミリ秒  
 ```
   
 ### MVC
 ```
-[2021-07-23 23:10:28] local.DEBUG: Packages\MvcSample\App\Http\Controllers\ProductController@list 繝｡繝｢繝ｪ 2735.3828125KB  
-[2021-07-23 23:10:28] local.DEBUG: Packages\MvcSample\App\Http\Controllers\ProductController@list 84.88392829895繝溘Μ遘・ 
-[2021-07-23 23:10:31] local.DEBUG: Packages\MvcSample\App\Http\Controllers\ProductController@detail 繝｡繝｢繝ｪ 627.4375KB  
-[2021-07-23 23:10:31] local.DEBUG: Packages\MvcSample\App\Http\Controllers\ProductController@detail 22.572994232178繝溘Μ遘・ 
-[2021-07-23 23:10:34] local.DEBUG: Packages\MvcSample\App\Http\Controllers\Api\CartController@add 繝｡繝｢繝ｪ 838.9921875KB  
-[2021-07-23 23:10:34] local.DEBUG: Packages\MvcSample\App\Http\Controllers\Api\CartController@add 50.947904586792繝溘Μ遘・ 
-[2021-07-23 23:10:34] local.DEBUG: Packages\MvcSample\App\Http\Controllers\CartController@list 繝｡繝｢繝ｪ 639.7109375KB  
-[2021-07-23 23:10:34] local.DEBUG: Packages\MvcSample\App\Http\Controllers\CartController@list 20.750045776367繝溘Μ遘・ 
-[2021-07-23 23:10:36] local.DEBUG: Packages\MvcSample\App\Http\Controllers\OrderController@form 繝｡繝｢繝ｪ 639.7109375KB  
-[2021-07-23 23:10:36] local.DEBUG: Packages\MvcSample\App\Http\Controllers\OrderController@form 20.180940628052繝溘Μ遘・ 
-[2021-07-23 23:10:45] local.DEBUG: Packages\MvcSample\App\Http\Controllers\Api\OrderController@check 繝｡繝｢繝ｪ 813.6875KB  
-[2021-07-23 23:10:45] local.DEBUG: Packages\MvcSample\App\Http\Controllers\Api\OrderController@check 57.819128036499繝溘Μ遘・ 
-[2021-07-23 23:10:53] local.DEBUG: Packages\MvcSample\App\Http\Controllers\Api\OrderController@save 繝｡繝｢繝ｪ 1375.6796875KB  
-[2021-07-23 23:10:53] local.DEBUG: Packages\MvcSample\App\Http\Controllers\Api\OrderController@save 1949.3370056152繝溘Μ遘・ 
+[2021-07-23 23:10:28] local.DEBUG: Packages\MvcSample\App\Http\Controllers\ProductController@list メモリ 2735.3828125KB  
+[2021-07-23 23:10:28] local.DEBUG: Packages\MvcSample\App\Http\Controllers\ProductController@list 84.88392829895ミリ秒  
+[2021-07-23 23:10:31] local.DEBUG: Packages\MvcSample\App\Http\Controllers\ProductController@detail メモリ 627.4375KB  
+[2021-07-23 23:10:31] local.DEBUG: Packages\MvcSample\App\Http\Controllers\ProductController@detail 22.572994232178ミリ秒  
+[2021-07-23 23:10:34] local.DEBUG: Packages\MvcSample\App\Http\Controllers\Api\CartController@add メモリ 838.9921875KB  
+[2021-07-23 23:10:34] local.DEBUG: Packages\MvcSample\App\Http\Controllers\Api\CartController@add 50.947904586792ミリ秒  
+[2021-07-23 23:10:34] local.DEBUG: Packages\MvcSample\App\Http\Controllers\CartController@list メモリ 639.7109375KB  
+[2021-07-23 23:10:34] local.DEBUG: Packages\MvcSample\App\Http\Controllers\CartController@list 20.750045776367ミリ秒  
+[2021-07-23 23:10:36] local.DEBUG: Packages\MvcSample\App\Http\Controllers\OrderController@form メモリ 639.7109375KB  
+[2021-07-23 23:10:36] local.DEBUG: Packages\MvcSample\App\Http\Controllers\OrderController@form 20.180940628052ミリ秒  
+[2021-07-23 23:10:45] local.DEBUG: Packages\MvcSample\App\Http\Controllers\Api\OrderController@check メモリ 813.6875KB  
+[2021-07-23 23:10:45] local.DEBUG: Packages\MvcSample\App\Http\Controllers\Api\OrderController@check 57.819128036499ミリ秒  
+[2021-07-23 23:10:53] local.DEBUG: Packages\MvcSample\App\Http\Controllers\Api\OrderController@save メモリ 1375.6796875KB  
+[2021-07-23 23:10:53] local.DEBUG: Packages\MvcSample\App\Http\Controllers\Api\OrderController@save 1949.3370056152ミリ秒  
 ```
   
 # メリット・デメリット
