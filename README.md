@@ -165,3 +165,16 @@ MVC > 軽量ddd > dddという結果でした。
 ### デメリット
 - コントローラー、モデルクラスにビジネスロジックが集中し、メンテナンス性が悪い神クラスが生まれやすくなる
 - フレームワークと密結合な実装となるため、UnitTestが実装し辛く、実装するには工夫が必要となる
+　　
+# デモサイト
+以下にデモサイトを構築しました。  
+- ddd
+http://www.take14.shop/ddd/product/list  
+- 軽量ddd
+http://www.take14.shop/lightddd/product/list  
+- MVC
+http://www.take14.shop/mvc/product/list  
+※基本認証をかけているので、ご覧になりたい方は以下のID、パスワードをご利用下さい  
+| ID | パスワード |
+| ---- | ---- |
+| take14 | UP6-hL$Z.8ghBn?c |
