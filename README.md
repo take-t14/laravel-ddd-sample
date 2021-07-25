@@ -10,6 +10,7 @@ Laravelで同じ実装をドメイン駆動設計(ddd)とMVCで比較してみ�
 | Apache | 2.4.34 |
 | PHP | 8.0.7 | 
 | PostgreSQL | 13.3 | 
+| npm | 6.14.12 | 
   
 # フレームワーク・ライブラリ 
 | フレームワーク・ライブラリ | バージョン |
@@ -19,7 +20,6 @@ Laravelで同じ実装をドメイン駆動設計(ddd)とMVCで比較してみ�
 | material-ui | 4.11.4 | 
 | typescript | 4.3.4 | 
 | sass | 1.35.1 |
-| npm | 6.14.12 | 
   
 # ディレクトリ構成 
 ### packages/Common
