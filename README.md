@@ -1,21 +1,25 @@
 # 概要 
-LaravelでECのデモサイトで構築しました。設計思想はドメイン駆動設計(以下ddd)、アーキテクチャはクリーンアーキテクチャを採用しました。LaravelのWebアプリケーションをdddやクリーンアーキテクチャで構築すると、MVCで構築するのと比べて実装量やファイル数が増えるのでは？また、処理速度も遅くなるのでは？という懸念を抱いておりました。ただ、それは実際に試してみないとわからないと思い、同じ機能をddd、MVCで実相し、比較する事にしました。やるなら実践的なプロジェクトが望ましいし、イメージし易いと考えて、題材はECのデモサイトにしました。構築パターンは、ddd、軽量ddd、MVCの3パターンです。ddd、軽量dddの違いは、dddはクリーンアーキテクチャに忠実に実装したのに比べて、軽量dddはプレゼンター、ViewModel、UseCaseDataを共通クラスに実装して実装量の削減をしています。  
+Laravelで同じ実装をドメイン駆動設計(ddd)とMVCで比較してみました。フロントはReactで実装しています。設計思想はドメイン駆動設計(以下ddd)、アーキテクチャはクリーンアーキテクチャを採用しました。LaravelのWebアプリケーションをdddやクリーンアーキテクチャで構築すると、MVCで構築するのと比べて実装量やファイル数が増えるのでは？また、処理速度も遅くなるのでは？という懸念を抱いておりました。ただ、それは実際に試してみないとわからないと思い、同じ機能をddd、MVCで実相し、比較する事にしました。やるなら実践的なプロジェクトが望ましいし、イメージし易いと考えて、題材はECのデモサイトにしました。構築パターンは、ddd、軽量ddd、MVCの3パターンです。ddd、軽量dddの違いは、dddはクリーンアーキテクチャに忠実に実装したのに比べて、軽量dddはプレゼンター、ViewModel、UseCaseDataを共通クラスに実装して実装量の削減をしています。  
 結果は下にまとめますが、やはり懸念していた通りパフォーマンスはMVC > 軽量ddd > dddという結果で、ファイル数やステップ数もddd > 軽量ddd > MVCと予測通りでした。ただ、パフォーマンスは思っていた程dddが悪い結果では無かったです。  
   
 なお、Viewはbladeを使っているものの、ほぼ全てReactで実装しました。SPAにも出来たのですが、本プロジェクトの趣旨ではないのでSPAにはあえてしていません。Reactより使い慣れてるVue.jsの方が実装しやすかったのですが、いい機会だったのでついでにReactもかじってみました。material uiを使うことで、スマホアプリのようなリッチなUI表現に仕上がりました。かつ、レスポンシブにも対応しています。   
   
 # ミドルウェア 
-Apache 2.4.34  
-PHP 8.0.7  
-PostgreSQL 13.3  
+| ミドルウェア | バージョン |
+| ---- | ---- |
+| Apache | 2.4.34 |
+| PHP | 8.0.7 | 
+| PostgreSQL | 13.3 | 
   
 # フレームワーク・ライブラリ 
-Laravel 8.48.1  
-React 17.0.2  
-material-ui 4.11.4  
-typescript 4.3.4  
-sass 1.35.1  
-npm 6.14.12  
+| フレームワーク・ライブラリ | バージョン |
+| ---- | ---- |
+| Laravel | 8.48.1 | 
+| React | 17.0.2  |
+| material-ui | 4.11.4 | 
+| typescript | 4.3.4 | 
+| sass | 1.35.1 |
+| npm | 6.14.12 | 
   
 # ディレクトリ構成 
 ### packages/Common
@@ -27,6 +31,10 @@ dddのモジュール
 ### packages/MvcSample
 MVCのモジュール
 ### tests/Unit/DDDEcSample
+### resources/ts
+ReactのTypeScriptコード
+### resources/sass
+Reactで使用するsass
 dddのUnitTest
 ### tests/Unit/LightDDDEcSample
 軽量dddのUnitTest
@@ -56,9 +64,18 @@ Umbrelloというソフトでクリーンアーキテクチャのベースとな
   
 ### クラス図
 ![クラス図](https://github.com/take-t14/laravel-ddd-sample/blob/master/DDDModel/%E3%82%AF%E3%83%A9%E3%82%B9%E5%9B%B3.png)
-
+  
 ### シーケンス図
 ![シーケンス図](https://github.com/take-t14/laravel-ddd-sample/blob/master/DDDModel/%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B9%E5%9B%B3.png)
+  
+### 集約
+CartはCartItemを保持。CartItemは、Productを保持するといった集約にしました。Orderも同じで、OrderItemを保持し、OrderItemはOroductを保持するという集約にしています。当初CartItemはCartDetailという名称にしていましたが、dddの要のユビキタス言語を実践するのであれば不自然な言葉使いだとはたと気付いて、CartItemにしました。それでも不自然かも知れませんが、ddd初学者の為ご容赦下さい・・・手続き型の実装に馴染んでる私の身としてはCartDetailという名前がしっくりしていたのですが、自然言語としては不自然な呼び名だなと思いました。
+参考文献、書籍によると、集約に対する操作は原則集約ルートから行うとあったため、それに気をつけつつ実装しました。(もし間違っていたら申し訳ありません)
+  
+![集約クラス図](https://raw.githubusercontent.com/take-t14/laravel-ddd-sample/master/DDDModel/%E9%9B%86%E7%B4%84%E3%82%AF%E3%83%A9%E3%82%B9%E5%9B%B3.png)  
+  
+### ドメインサービス
+カートアイテムを追加する処理を実装する際、CartReposutoryで取得した結果に、CartItemを追加する必要がありますが、その際Productを取得して設定する必要があります。ProductReposutoryを使ってProductを取得しますが、複数のRepositoryを操作する必要があり、それをUseCase層に実装するのはぎこちなさを感じました。カートに商品を追加する。という一つのUseCaseを実現するのに、UseCaseがProductIdからProductRepositoryを使ってProductを取り出し、それをCartオブジェクトに追加する。という複数のReoositoryを使った一連の操作を行うのですが、そうした一連の操作もドメイン知識なのではと思った為です。そこで、CartServiceというドメインサービスを作りました。今こうして書いていて、UseCaseでProductRepositoryからProductを取り出し、Cartに対してそれを追加するメソッドを実装してコールする形でもよかったなと思い直しており、ドメインサービスを作るまでも無かったのかも知れません、、、ただ、あくまでも検証なので、実装パターンを試すという意味ではこれはこれで良かったと考えています。なお、参考書籍ではドメインサービスは極力使わないで、ドメインモデルで表現・実装するべきである旨が強調して書かれていました。その気になれば、全部ドメインサービスに書けてしまう為です。それによってドメイン貧血症という、何も仕様もドメイン知識も実装されていないドメインモデルが出来てしまうそうです。何をドメインモデルで実装し、どういった場合にドメインサービスを用いるかは、慎重な検討と熟練した判断や経験が必要になりそうです。
   
 # 自動テスト 
 全機能に対するUnitTestを実装しました。TDDも勉強していた為、実装の過程で実践しました。何度かリファクタリングをしたのですが、その度にグリーン(自動テストオールOK)だったのが、レッド(自動テストオールNG)になりました。そこからグリーンにするまで修正したら、画面テストがキチンと動作する事を確認出来ました。UnitTestで非常に信頼性の高い検証を行える事が、この事から立証出来たと思います。キチンとUnitTestを実装したら、機能追加やリファクタリングを自信を持って行えると思います。 
@@ -77,7 +94,7 @@ app/Http/Middleware/PerformanceLog.php
 上記ファイルにコントローラー実行前後にログを出力し、処理時間、処理に使用したメモリを計測できるようにしました。その計測結果を以下にまとめます。  
 商品一覧のように大量のレコードをDBから取得して表示する箇所は、MVC > 軽量ddd > dddという結果でした。これは、dddの場合取得したレコードをドメインモデルに変換するコストがかかるためです。  
 一方意外だったのは、その他はほとんど軽量dddに軍配が上がって軽量ddd > MVC > dddという結果になった点です。詳しくは分析しておりませんが、MVCは手続き型で実装しているので、処理効率が悪い部分があるのでしょうか。もしくは単なる誤差という可能性もあります。いずれにしても気にするほどの差ではありません。商品一覧だけ100ms単位で差が出ているので、大量データ取得・表示のパフォーマンスに影響が出ると考えるのが良さそうです。なお、注文確定処理が2000ms前後と時間がかかっているのは、注文確定のお知らせメール送信処理が含まれるためです。  
-
+  
 ## 結果一覧
 | 機能 | ddd時間 | dddメモリ | 軽量ddd時間 | 軽量dddメモリ | MVC時間 | MVCメモリ |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -178,11 +195,11 @@ app/Http/Middleware/PerformanceLog.php
   
 # デモサイト
 以下にデモサイトを構築しました。  
-- ddd  
+- ddd
 http://www.take14.shop/ddd/product/list  
-- 軽量ddd  
+- 軽量ddd
 http://www.take14.shop/lightddd/product/list  
-- MVC  
+- MVC
 http://www.take14.shop/mvc/product/list  
   
 #### 基本認証をかけているので、ご覧になりたい方は以下のID、パスワードをご利用下さい  
@@ -190,3 +207,13 @@ http://www.take14.shop/mvc/product/list
 | ID | パスワード |
 | ---- | ---- |
 | take14 | UP6-hL$Z.8ghBn?c |
+  
+# 参考文献・記事・ソースコード
+[エリック・エヴァンスのドメイン駆動設計](https://www.amazon.co.jp/%E3%82%A8%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B9%E3%81%AE%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E9%A7%86%E5%8B%95%E8%A8%AD%E8%A8%88-Architects%E2%80%99Archive-%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E3%81%AE%E5%AE%9F%E8%B7%B5-%E3%82%A8%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B9/dp/4798121967/ref=pd_lpo_2?pd_rd_i=4798121967&psc=1)
+[実践ドメイン駆動設計 (Object Oriented SELECTION)](https://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E9%A7%86%E5%8B%95%E8%A8%AD%E8%A8%88-Object-Oriented-SELECTION-%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8E%E3%83%B3/dp/479813161X/ref=pd_bxgy_img_2/355-6470023-9566522?_encoding=UTF8&pd_rd_i=479813161X&pd_rd_r=463b1683-6c04-4380-ab7f-2edc9b0fcdfd&pd_rd_w=7yigR&pd_rd_wg=WMCAu&pf_rd_p=d8f6e0ab-48ef-4eca-99d5-60d97e927468&pf_rd_r=XTJ7Y0A29Y1DX6A5Q0R1&psc=1&refRID=XTJ7Y0A29Y1DX6A5Q0R1)
+[テスト駆動開発](https://www.amazon.co.jp/%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA-Kent-Beck/dp/4274217884/ref=pd_vtp_4/355-6470023-9566522?pd_rd_w=8iHDg&pf_rd_p=949e26f5-c2ef-4c96-bfde-49d7614d0317&pf_rd_r=1RVRDN6654AV76BHD8Z1&pd_rd_r=22490f61-01d2-4ff2-8569-f97eb55cf853&pd_rd_wg=jr32n&pd_rd_i=4274217884&psc=1)
+[ドメイン駆動設計入門 ボトムアップでわかる! ドメイン駆動設計の基本](https://www.amazon.co.jp/%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E9%A7%86%E5%8B%95%E8%A8%AD%E8%A8%88%E5%85%A5%E9%96%80-%E3%83%9C%E3%83%88%E3%83%A0%E3%82%A2%E3%83%83%E3%83%97%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B-%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E9%A7%86%E5%8B%95%E8%A8%AD%E8%A8%88%E3%81%AE%E5%9F%BA%E6%9C%AC-%E6%88%90%E7%80%AC-%E5%85%81%E5%AE%A3/dp/479815072X)
+[ドメイン駆動設計 モデリング/実装ガイド](https://booth.pm/ja/items/1835632)
+[nrslib/StrictLaraClean](https://github.com/nrslib/StrictLaraClean)
+[DDDパターンを活用した Laravelアプリケーション開発](https://speakerdeck.com/shin1x1/201703-ddd-with-laravel)
+[shin1x1/laravel-ddd-sampl](https://github.com/shin1x1/laravel-ddd-sample)
