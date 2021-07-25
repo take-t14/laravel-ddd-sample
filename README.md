@@ -63,10 +63,10 @@ php artisan db:seed
 Umbrelloというソフトでクリーンアーキテクチャのベースとなるクラス図、シーケンス図を作成し、PHPでエクスポートしたソースコードをベースに実装を進めました。本当にIF部分だけのスケルトン生成なので、わざわざクラス図から生成する必要も無いのですが、検証の意味でトライしてみました。クリーンアーキテクチャのクラス図と見比べつつクラスを作成出来たので、やって良かったと考えています。「DDDModel」というフォルダにその結果を収めております。
   
 ### クラス図
-![クラス図](https://github.com/take-t14/laravel-ddd-sample/blob/master/DDDModel/%E3%82%AF%E3%83%A9%E3%82%B9%E5%9B%B3.png)
+![クラス図](https://github.com/take-t14/laravel-ddd-sample/blob/master/DDDModel/%E3%82%AF%E3%83%A9%E3%82%B9%E5%9B%B3.png?raw=true)
   
 ### シーケンス図
-![シーケンス図](https://github.com/take-t14/laravel-ddd-sample/blob/master/DDDModel/%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B9%E5%9B%B3.png)
+![シーケンス図](https://github.com/take-t14/laravel-ddd-sample/blob/master/DDDModel/%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B9%E5%9B%B3.png?raw=true)
   
 ### 集約
 CartはCartItemを保持。CartItemは、Productを保持するといった集約にしました。Orderも同じで、OrderItemを保持し、OrderItemはProductを保持するという集約にしています。当初CartItemはCartDetailという名称にしていましたが、dddの要のユビキタス言語を実践するのであれば不自然な言葉使いだとはたと気付いて、CartItemにしました。それでも不自然かも知れませんが、ddd初学者の為ご容赦下さい・・・手続き型の実装に馴染んでる私の身としてはCartDetailという名前がしっくりしていたのですが、自然言語としては不自然な呼び名だなと思いました。
