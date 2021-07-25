@@ -69,7 +69,7 @@ Umbrelloというソフトでクリーンアーキテクチャのベースとな
 ![シーケンス図](https://github.com/take-t14/laravel-ddd-sample/blob/master/DDDModel/%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B9%E5%9B%B3.png)
   
 ### 集約
-CartはCartItemを保持。CartItemは、Productを保持するといった集約にしました。Orderも同じで、OrderItemを保持し、OrderItemはOroductを保持するという集約にしています。当初CartItemはCartDetailという名称にしていましたが、dddの要のユビキタス言語を実践するのであれば不自然な言葉使いだとはたと気付いて、CartItemにしました。それでも不自然かも知れませんが、ddd初学者の為ご容赦下さい・・・手続き型の実装に馴染んでる私の身としてはCartDetailという名前がしっくりしていたのですが、自然言語としては不自然な呼び名だなと思いました。
+CartはCartItemを保持。CartItemは、Productを保持するといった集約にしました。Orderも同じで、OrderItemを保持し、OrderItemはProductを保持するという集約にしています。当初CartItemはCartDetailという名称にしていましたが、dddの要のユビキタス言語を実践するのであれば不自然な言葉使いだとはたと気付いて、CartItemにしました。それでも不自然かも知れませんが、ddd初学者の為ご容赦下さい・・・手続き型の実装に馴染んでる私の身としてはCartDetailという名前がしっくりしていたのですが、自然言語としては不自然な呼び名だなと思いました。
 参考文献、書籍によると、集約に対する操作は原則集約ルートから行うとあったため、それに気をつけつつ実装しました。(もし間違っていたら申し訳ありません)
   
 ![集約クラス図](https://raw.githubusercontent.com/take-t14/laravel-ddd-sample/master/DDDModel/%E9%9B%86%E7%B4%84%E3%82%AF%E3%83%A9%E3%82%B9%E5%9B%B3.png)  
