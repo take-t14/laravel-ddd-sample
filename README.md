@@ -230,4 +230,6 @@ ddd、軽量ddd、MVCのメリット・デメリットを比較した結果を�
 [nrslib/StrictLaraClean](https://github.com/nrslib/StrictLaraClean)  
 [DDDパターンを活用した Laravelアプリケーション開発](https://speakerdeck.com/shin1x1/201703-ddd-with-laravel)  
 [shin1x1/laravel-ddd-sampl](https://github.com/shin1x1/laravel-ddd-sample)  
+[laracasts](https://laracasts.com/discuss/channels/eloquent/eloquent-is-so-slow?page=1)
+
   
