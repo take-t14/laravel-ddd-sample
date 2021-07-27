@@ -20,7 +20,7 @@ class OrderNotification implements IOrderNotification
    */
   public function notify(OrderUseCaseData $order) {
     $contactMail = new ContactMail(
-        ["hatake.t14@gmail.com"]
+        ["xxxshop@take14.shop"]
       , "【XXXXショップ】ご注文ありがとうございます"
       , "mail.order.order"
       , ["order" => $order->toArray()]
