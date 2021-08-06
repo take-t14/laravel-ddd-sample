@@ -136,7 +136,7 @@ app/Http/Middleware/PerformanceLog.php
 | カート画面表示 | 36ms | 468KB | 10ms | 382KB | 21ms | 640KB |
 | 注文画面表示 | 20ms | 468KB | 9ms | 382KB | 20ms | 640KB |
 | 注文バリデーションAPI | 34ms | 422KB | 31ms | 506KB | 58ms | 814KB |
-| 注文確定処理 | 2552ms | 1334KB | 2517ms | 1061KB | 1949ms | 1376KB |
+| 注文確定処理 | 252ms | 1011KB | 251ms | 1061KB | 194ms | 1376KB |
   
 ## エビデンス
 ### DDD
@@ -154,7 +154,7 @@ app/Http/Middleware/PerformanceLog.php
 [2021-07-23 23:09:37] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@check メモリ 421.9609375KB  
 [2021-07-23 23:09:37] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@check 33.753156661987ミリ秒  
 [2021-07-23 23:09:44] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@save メモリ 1334.2734375KB  
-[2021-07-23 23:09:44] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@save 2552.1411895752ミリ秒  
+[2021-07-23 23:09:44] local.DEBUG: Packages\DDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@save 252.1411895752ミリ秒  
 ```
   
 ### 軽量DDD
@@ -172,7 +172,7 @@ app/Http/Middleware/PerformanceLog.php
 [2021-07-23 23:11:49] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@check メモリ 506.1171875KB  
 [2021-07-23 23:11:49] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@check 30.539989471436ミリ秒  
 [2021-07-23 23:11:53] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@save メモリ 1061.2578125KB  
-[2021-07-23 23:11:53] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@save 2517.3659324646ミリ秒  
+[2021-07-23 23:11:53] local.DEBUG: Packages\LightDDDEcSample\InterfaceAdapters\Controllers\Api\OrderController@save 251.3659324646ミリ秒  
 ```
   
 ### MVC
@@ -190,7 +190,7 @@ app/Http/Middleware/PerformanceLog.php
 [2021-07-23 23:10:45] local.DEBUG: Packages\MvcSample\App\Http\Controllers\Api\OrderController@check メモリ 813.6875KB  
 [2021-07-23 23:10:45] local.DEBUG: Packages\MvcSample\App\Http\Controllers\Api\OrderController@check 57.819128036499ミリ秒  
 [2021-07-23 23:10:53] local.DEBUG: Packages\MvcSample\App\Http\Controllers\Api\OrderController@save メモリ 1375.6796875KB  
-[2021-07-23 23:10:53] local.DEBUG: Packages\MvcSample\App\Http\Controllers\Api\OrderController@save 1949.3370056152ミリ秒  
+[2021-07-23 23:10:53] local.DEBUG: Packages\MvcSample\App\Http\Controllers\Api\OrderController@save 194.3370056152ミリ秒  
 ```
   
 # メリット・デメリット
