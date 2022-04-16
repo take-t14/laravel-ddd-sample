@@ -1,0 +1,781 @@
+# Translation of Themes - Twenty Twenty in Japanese
+# This file is distributed under the same license as the Themes - Twenty Twenty package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-28 05:47:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-rc.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Twenty Twenty\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Our default theme for 2020 is designed to take full advantage of the flexibility of the block editor. Organizations and businesses have the ability to create dynamic landing pages with endless layouts using the group and column blocks. The centered content column and fine-tuned typography also makes it perfect for traditional blogs. Complete editor styles give you a good idea of what your content will look like, even before you publish. You can give your site a personal touch by changing the background colors and the accent color in the Customizer. The colors of all elements on your site are automatically calculated based on the colors you pick, ensuring a high, accessible color contrast for your visitors."
+msgstr "2020年のデフォルトテーマは、ブロックエディターの柔軟性を最大限に活用するためにデザインしました。団体や企業も、グループやカラムブロックを使ってダイナミックなランディングページを作ることができます。中央寄せコンテンツカラムや細かいところまで気を配ったタイポグラフィは、通常のブログにもぴったりです。エディタースタイルの完備により、公開前にコンテンツがどのように表示されるかよく分かります。カスタマイザーで背景色やアクセントカラーを変更して、自分らしさを加えることもできます。選択した色に基づいてサイト上のすべての要素の色が自動的に計算され、読者にアクセシブルで高いコントラストの色合いを確実にお届けします。"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+#, gp-priority: high
+msgid "Twenty Twenty"
+msgstr "Twenty Twenty"
+
+#: classes/class-twentytwenty-customize.php:131
+#, gp-priority: normal
+msgctxt "color"
+msgid "Custom"
+msgstr "カスタム"
+
+#: classes/class-twentytwenty-customize.php:130
+#, gp-priority: normal
+msgctxt "color"
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/block-patterns.php:197
+#, gp-priority: normal
+msgid "With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political, and philosophical issues are intrinsic to our program. As visitor, you are invited to guided tours artist talks, lectures, film screenings, and other events with free admission."
+msgstr "7階建ての印象的な建築の現代美術館では、国際的な現代美術の展示を行っています。その際、美術の歴史的分析も含めることもあります。実存的、政治的、哲学的問題は当館のプログラムの本質といえます。訪問者の皆さんを、ガイド付きツアー、アーティストトーク、講演、映画上映などの無料イベントへご招待しています。"
+
+#: inc/block-patterns.php:194
+#, gp-priority: normal
+msgid "The Premier Destination for Modern Art in Sweden"
+msgstr "スウェーデンの現代美術の聖地"
+
+#: inc/block-patterns.php:187
+#, gp-priority: normal
+msgid "Introduction"
+msgstr "はじめに"
+
+#: inc/block-patterns.php:157 inc/block-patterns.php:171
+#, gp-priority: normal
+msgid "August 1 — December 1"
+msgstr "8月1日〜12月1日"
+
+#: inc/block-patterns.php:151 inc/block-patterns.php:165
+#, gp-priority: normal
+msgid "Abstract Rectangles"
+msgstr "抽象的な四角形"
+
+#: inc/block-patterns.php:142
+#, gp-priority: normal
+msgid "Featured Content"
+msgstr "おすすめコンテンツ"
+
+#: inc/block-patterns.php:128
+#, gp-priority: normal
+msgid "<em>Price</em><br>Included"
+msgstr "<em>価格</em><br>無料"
+
+#: inc/block-patterns.php:123
+#, gp-priority: normal
+msgid "<em>Location</em><br>Exhibit Hall B"
+msgstr "<em>場所</em><br>展示ホール B"
+
+#: inc/block-patterns.php:118
+#, gp-priority: normal
+msgid "<em>Dates</em><br>Aug 1 — Dec 1"
+msgstr "<em>日時</em><br>8月1日〜12月1日"
+
+#: inc/block-patterns.php:108
+#, gp-priority: normal
+msgid "Event Details"
+msgstr "イベントの詳細"
+
+#: inc/block-patterns.php:93
+#, gp-priority: normal
+msgid "Shop Now"
+msgstr "今すぐショッピング"
+
+#: inc/block-patterns.php:89
+#, gp-priority: normal
+msgid "An awe-inspiring collection of books, prints, and gifts from our exhibitions."
+msgstr "展覧会で使用された書籍、版画、ギフトなどを集めた圧巻のコレクション。"
+
+#: inc/block-patterns.php:86
+#, gp-priority: normal
+msgid "The Store"
+msgstr "お店"
+
+#: inc/block-patterns.php:74
+#, gp-priority: normal
+msgid "Award-winning exhibitions featuring internationally-renowned artists."
+msgstr "世界的に有名なアーティストによる受賞歴のある展覧会"
+
+#: inc/block-patterns.php:71
+#, gp-priority: normal
+msgid "The Museum"
+msgstr "美術館"
+
+#: inc/block-patterns.php:61
+#, gp-priority: normal
+msgid "Double Call to Action"
+msgstr "行動喚起 (CTA) 2つ"
+
+#: inc/block-patterns.php:48
+#, gp-priority: normal
+msgid "Become a Member"
+msgstr "会員登録"
+
+#: inc/block-patterns.php:42
+#, gp-priority: normal
+msgid "Support the Museum and Get Exclusive Offers"
+msgstr "ミュージアムを応援して限定品をゲット"
+
+#: inc/block-patterns.php:33
+#, gp-priority: normal
+msgid "Call to Action"
+msgstr "CTA (行動喚起)"
+
+#: template-parts/modal-menu.php:73
+#, gp-priority: normal
+msgctxt "menu"
+msgid "Mobile"
+msgstr "モバイル"
+
+#: template-parts/modal-menu.php:48
+#, gp-priority: normal
+msgctxt "menu"
+msgid "Expanded"
+msgstr "展開"
+
+#: header.php:88
+#, gp-priority: normal
+msgctxt "menu"
+msgid "Horizontal"
+msgstr "水平方向"
+
+#: header.php:53 header.php:157
+#, gp-priority: normal
+msgctxt "toggle text"
+msgid "Search"
+msgstr "検索"
+
+#: functions.php:526
+#, gp-priority: normal
+msgctxt "color"
+msgid "Secondary"
+msgstr "セカンダリー"
+
+#: functions.php:521
+#, gp-priority: normal
+msgctxt "color"
+msgid "Primary"
+msgstr "メイン"
+
+#: index.php:51
+#, gp-priority: normal
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#: classes/class-twentytwenty-customize.php:251
+#, gp-priority: normal
+msgid "Show author bio"
+msgstr "作成者名を表示"
+
+#: template-parts/entry-author-bio.php:29
+#, gp-priority: normal
+msgid "View Archive <span aria-hidden=\"true\">&rarr;</span>"
+msgstr "アーカイブを表示 <span aria-hidden=\"true\">&rarr;</span>"
+
+#: inc/starter-content.php:39
+#, gp-priority: normal
+msgctxt "Theme starter content"
+msgid "The New UMoMA Opens its Doors"
+msgstr "現代美術館が新装オープン"
+
+#: inc/template-tags.php:414
+#, gp-priority: normal
+msgctxt "A string that is output before one or more categories"
+msgid "In"
+msgstr "カテゴリー:"
+
+#: inc/starter-content.php:151
+#, gp-priority: normal
+msgid "Join the Club"
+msgstr "参加する"
+
+#: inc/block-patterns.php:45 inc/starter-content.php:148
+#, gp-priority: normal
+msgid "Members get access to exclusive exhibits and sales. Our memberships cost $99.99 and are billed annually."
+msgstr "会員の方は、限定展示やセールにアクセスできます。会員になるには年間1万円の費用がかかり、請求は年に1回です。"
+
+#: inc/starter-content.php:145
+#, gp-priority: normal
+msgid "Become a Member and Get Exclusive Offers!"
+msgstr "会員になって限定オファーへアクセス。"
+
+#: inc/starter-content.php:137
+#, gp-priority: normal
+msgid "The exhibitions are produced by UMoMA in collaboration with artists and museums around the world and they often attract international attention. UMoMA has received a Special Commendation from the European Museum of the Year, and was among the top candidates for the Swedish Museum of the Year Award as well as for the Council of Europe Museum Prize."
+msgstr "展覧会は現代美術館と世界中のアーティストや美術館によるコラボレーションの成果であり、国際的に注目されることも少なくありません。現代美術館はヨーロッパ博物館大賞から特別推奨賞を授けられ、スウェーデン博物館大賞やヨーロッパ博物館評議会賞においても上位の候補者となりました。"
+
+#: inc/starter-content.php:134
+#, gp-priority: normal
+msgid "With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political and philosophical issues are intrinsic to our programme. As visitor you are invited to guided tours artist talks, lectures, film screenings and other events with free admission"
+msgstr "7階建ての印象的な建築の現代美術館では、国際的な現代美術の展示を行っています。その際、美術の歴史的分析も含めることもあります。実存的、政治的、哲学的問題は当館のプログラムの本質といえます。訪問者の皆さんを、ガイド付きツアー、アーティストトーク、講演、映画上映などの無料イベントへご招待しています。"
+
+#: inc/starter-content.php:130
+#, gp-priority: normal
+msgid "&#8220;Cyborgs, as the philosopher Donna Haraway established, are not reverent. They do not remember the cosmos.&#8221;"
+msgstr "「哲学者ドナ・ハラウェイが証明したとおり、サイボーグは敬虔ではないのです。彼らは宇宙のことを覚えていません。」"
+
+#: inc/starter-content.php:114
+#, gp-priority: normal
+msgid "From Signac to Matisse"
+msgstr "シニャックからマチスまで"
+
+#: inc/block-patterns.php:168 inc/starter-content.php:99
+#, gp-priority: normal
+msgid "The Life I Deserve"
+msgstr "ふさわしい人生"
+
+#: inc/starter-content.php:85 inc/starter-content.php:117
+#, gp-priority: normal
+msgid "October 1 -- December 1"
+msgstr "10月1日〜12月1日"
+
+#: inc/starter-content.php:82
+#, gp-priority: normal
+msgid "Theatre of Operations"
+msgstr "オペレーション劇場"
+
+#: inc/block-patterns.php:78 inc/block-patterns.php:160
+#: inc/block-patterns.php:174 inc/starter-content.php:73
+#: inc/starter-content.php:88 inc/starter-content.php:105
+#: inc/starter-content.php:120
+#, gp-priority: normal
+msgid "Read More"
+msgstr "続きを読む"
+
+#: inc/starter-content.php:70 inc/starter-content.php:102
+#, gp-priority: normal
+msgid "August 1 -- December 1"
+msgstr "8月1日〜12月1日"
+
+#: inc/block-patterns.php:154 inc/starter-content.php:67
+#, gp-priority: normal
+msgid "Works and Days"
+msgstr "作品と日程"
+
+#: inc/starter-content.php:56
+#, gp-priority: normal
+msgid "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+msgstr "スウェーデン北部の現代アートを集めたプレミアムスポット。夏季期間中は午前10時から午後6時まで毎日営業しています。"
+
+#: inc/starter-content.php:48
+#, gp-priority: normal
+msgid "The New UMoMA Opens its Doors"
+msgstr "現代美術館が新装オープン"
+
+#: classes/class-twentytwenty-customize.php:400
+#, gp-priority: normal
+msgid "Overlay Opacity"
+msgstr "オーバーレイの不透明度"
+
+#: classes/class-twentytwenty-customize.php:380
+#, gp-priority: normal
+msgid "The color used for the text in the overlay."
+msgstr "オーバーレイ内のテキストに使用される色。"
+
+#: classes/class-twentytwenty-customize.php:379
+#, gp-priority: normal
+msgid "Overlay Text Color"
+msgstr "オーバーレイテキスト色"
+
+#: classes/class-twentytwenty-customize.php:358
+#, gp-priority: normal
+msgid "The color used for the overlay. Defaults to the accent color."
+msgstr "オーバーレイに使用される色。デフォルトはアクセント色。"
+
+#: classes/class-twentytwenty-customize.php:357
+#, gp-priority: normal
+msgid "Overlay Background Color"
+msgstr "オーバーレイ背景色"
+
+#: classes/class-twentytwenty-customize.php:288
+#, gp-priority: normal
+msgid "Settings for the \"Cover Template\" page template. Add a featured image to use as background."
+msgstr "「カバーテンプレート」ページテンプレートの設定。背景として使用するアイキャッチ画像を追加してください。"
+
+#: classes/class-twentytwenty-customize.php:188
+#, gp-priority: normal
+msgid "Apply a custom color for links, buttons, featured images."
+msgstr "リンク、ボタン、アイキャッチ画像にカスタムカラーを適用します。"
+
+#: classes/class-twentytwenty-customize.php:128
+#, gp-priority: normal
+msgid "Primary Color"
+msgstr "メインカラー"
+
+#: searchform.php:28 template-parts/modal-search.php:20
+#, gp-priority: normal
+msgid "Search for:"
+msgstr "検索対象:"
+
+#: index.php:101
+#, gp-priority: normal
+msgid "search again"
+msgstr "再検索"
+
+#. translators: %s: Number of search results.
+#: index.php:39
+#, gp-priority: normal
+msgid "We found %s result for your search."
+msgid_plural "We found %s results for your search."
+msgstr[0] "検索結果が%s件見つかりました。"
+
+#. translators: %s: HTML character for up arrow.
+#: footer.php:55
+#, gp-priority: normal
+msgid "Up %s"
+msgstr "上 %s"
+
+#. translators: %s: HTML character for up arrow.
+#: footer.php:49
+#, gp-priority: normal
+msgid "To the top %s"
+msgstr "上へ %s"
+
+#. translators: Copyright date format, see
+#. https://www.php.net/manual/datetime.format.php
+#: footer.php:25
+#, gp-priority: normal
+msgctxt "copyright date format"
+msgid "Y"
+msgstr "Y年"
+
+#: 404.php:24
+#, gp-priority: normal
+msgid "404 not found"
+msgstr "404: 見つかりませんでした"
+
+#. Template Name of the theme
+#, gp-priority: normal
+msgid "Full Width Template"
+msgstr "全幅テンプレート"
+
+#. Translators: This text contains HTML to allow the text to be shorter on
+#. small screens. The text inside the span with the class nav-short will be
+#. hidden on small screens.
+#: template-parts/pagination.php:27
+#, gp-priority: normal
+msgid "Older <span class=\"nav-short\">Posts</span>"
+msgstr "古い<span class=\"nav-short\">投稿</span>"
+
+#. Translators: This text contains HTML to allow the text to be shorter on
+#. small screens. The text inside the span with the class nav-short will be
+#. hidden on small screens.
+#: template-parts/pagination.php:19
+#, gp-priority: normal
+msgid "Newer <span class=\"nav-short\">Posts</span>"
+msgstr "新しい<span class=\"nav-short\">投稿</span>"
+
+#: template-parts/navigation.php:25
+#, gp-priority: normal
+msgid "Post"
+msgstr "投稿"
+
+#: template-parts/modal-search.php:26
+#, gp-priority: normal
+msgid "Close search"
+msgstr "検索を閉じる"
+
+#: template-parts/modal-menu.php:117
+#, gp-priority: normal
+msgid "Expanded Social links"
+msgstr "拡張ソーシャルリンク"
+
+#: template-parts/modal-menu.php:21
+#, gp-priority: normal
+msgid "Close Menu"
+msgstr "メニューを閉じる"
+
+#: template-parts/footer-menus-widgets.php:57
+#, gp-priority: normal
+msgid "Social links"
+msgstr "ソーシャルリンク"
+
+#: template-parts/footer-menus-widgets.php:37
+#, gp-priority: normal
+msgid "Footer"
+msgstr "フッター"
+
+#. translators: %s: Author name.
+#: inc/template-tags.php:375 template-parts/entry-author-bio.php:20
+#, gp-priority: normal
+msgid "By %s"
+msgstr "作成者: %s"
+
+#: template-parts/content-cover.php:138 template-parts/content.php:48
+#, gp-priority: normal
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/content-cover.php:138 template-parts/content.php:48
+#, gp-priority: normal
+msgid "Page"
+msgstr "ページ"
+
+#: template-parts/content-cover.php:88
+#, gp-priority: normal
+msgid "Scroll Down"
+msgstr "スクロールダウン"
+
+#: searchform.php:31
+#, gp-priority: normal
+msgctxt "submit button"
+msgid "Search"
+msgstr "検索"
+
+#: searchform.php:29
+#, gp-priority: normal
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "検索 &hellip;"
+
+#: index.php:48
+#, gp-priority: normal
+msgid "We could not find any results for your search. You can give it another try through the search form below."
+msgstr "検索結果が見つかりませんでした。以下の検索フォームからもう一度お試しください。"
+
+#: index.php:32
+#, gp-priority: normal
+msgid "Search:"
+msgstr "検索:"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:223
+#, gp-priority: normal
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "編集 <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:466
+#, gp-priority: normal
+msgid "Sticky post"
+msgstr "固定投稿"
+
+#: inc/template-tags.php:428
+#, gp-priority: normal
+msgid "Tags"
+msgstr "タグ"
+
+#: inc/template-tags.php:410 template-parts/content-cover.php:70
+#: template-parts/entry-header.php:36
+#, gp-priority: normal
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: inc/template-tags.php:392
+#, gp-priority: normal
+msgid "Post date"
+msgstr "投稿日"
+
+#: inc/template-tags.php:368
+#, gp-priority: normal
+msgid "Post author"
+msgstr "投稿者"
+
+#: inc/starter-content.php:197
+#, gp-priority: normal
+msgid "Social Links Menu"
+msgstr "﻿ソーシャルリンクメニュー"
+
+#: inc/starter-content.php:177 inc/starter-content.php:187
+#, gp-priority: normal
+msgid "Primary"
+msgstr "メイン"
+
+#: header.php:76 header.php:137
+#, gp-priority: normal
+msgid "Menu"
+msgstr "メニュー"
+
+#: template-parts/content.php:36
+#, gp-priority: normal
+msgid "Continue reading"
+msgstr "続きを読む"
+
+#: functions.php:578
+#, gp-priority: normal
+msgctxt "Short name of the larger font size in the block editor."
+msgid "XL"
+msgstr "超特大"
+
+#: functions.php:577
+#, gp-priority: normal
+msgctxt "Name of the larger font size in the block editor"
+msgid "Larger"
+msgstr "特大"
+
+#: functions.php:572
+#, gp-priority: normal
+msgctxt "Short name of the large font size in the block editor."
+msgid "L"
+msgstr "大"
+
+#: functions.php:571
+#, gp-priority: normal
+msgctxt "Name of the large font size in the block editor"
+msgid "Large"
+msgstr "大"
+
+#: functions.php:566
+#, gp-priority: normal
+msgctxt "Short name of the regular font size in the block editor."
+msgid "M"
+msgstr "中"
+
+#: functions.php:565
+#, gp-priority: normal
+msgctxt "Name of the regular font size in the block editor"
+msgid "Regular"
+msgstr "通常"
+
+#: functions.php:560
+#, gp-priority: normal
+msgctxt "Short name of the small font size in the block editor."
+msgid "S"
+msgstr "小"
+
+#: functions.php:559
+#, gp-priority: normal
+msgctxt "Name of the small font size in the block editor"
+msgid "Small"
+msgstr "小"
+
+#: functions.php:544
+#, gp-priority: normal
+msgid "Background Color"
+msgstr "背景色"
+
+#: functions.php:531
+#, gp-priority: normal
+msgid "Subtle Background"
+msgstr "繊細な背景"
+
+#: functions.php:516
+#, gp-priority: normal
+msgid "Accent Color"
+msgstr "アクセント色"
+
+#: functions.php:403
+#, gp-priority: normal
+msgid "Widgets in this area will be displayed in the second column in the footer."
+msgstr "このエリアのウィジェットはフッターの2列目に表示されます。"
+
+#: functions.php:401
+#, gp-priority: normal
+msgid "Footer #2"
+msgstr "フッター2"
+
+#: functions.php:391
+#, gp-priority: normal
+msgid "Widgets in this area will be displayed in the first column in the footer."
+msgstr "このエリアのウィジェットはフッターの1列目に表示されます。"
+
+#: functions.php:389
+#, gp-priority: normal
+msgid "Footer #1"
+msgstr "フッター1"
+
+#: functions.php:362
+#, gp-priority: normal
+msgid "Skip to the content"
+msgstr "コンテンツへスキップ"
+
+#: functions.php:277
+#, gp-priority: normal
+msgid "Social Menu"
+msgstr "ソーシャルメニュー"
+
+#: functions.php:276
+#, gp-priority: normal
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: functions.php:275
+#, gp-priority: normal
+msgid "Mobile Menu"
+msgstr "モバイルメニュー"
+
+#: functions.php:274
+#, gp-priority: normal
+msgid "Desktop Expanded Menu"
+msgstr "デスクトップ展開メニュー"
+
+#: functions.php:273
+#, gp-priority: normal
+msgid "Desktop Horizontal Menu"
+msgstr "デスクトップ水平メニュー"
+
+#: footer.php:39
+#, gp-priority: normal
+msgid "Powered by WordPress"
+msgstr "Powered by WordPress"
+
+#: comments.php:127
+#, gp-priority: normal
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:88
+#, gp-priority: normal
+msgid "Comments"
+msgstr "コメント"
+
+#: comments.php:75
+#, gp-priority: normal
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:74
+#, gp-priority: normal
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:41
+#, gp-priority: normal
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件の返信"
+
+#. translators: %s: Post title.
+#: comments.php:37
+#, gp-priority: normal
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "「%s」への1件の返信"
+
+#: comments.php:34
+#, gp-priority: normal
+msgid "Leave a comment"
+msgstr "コメントを残す"
+
+#: classes/class-twentytwenty-walker-page.php:115 inc/template-tags.php:580
+#, gp-priority: normal
+msgid "Show sub menu"
+msgstr "サブメニューを表示"
+
+#. translators: %d: ID of a post.
+#: classes/class-twentytwenty-walker-page.php:78
+#, gp-priority: normal
+msgid "#%d (no title)"
+msgstr "#%d (タイトルなし)"
+
+#: classes/class-twentytwenty-walker-comment.php:137
+#, gp-priority: normal
+msgid "By Post Author"
+msgstr "投稿者より"
+
+#: classes/class-twentytwenty-walker-comment.php:102
+#, gp-priority: normal
+msgid "Your comment is awaiting moderation."
+msgstr "コメントは承認待ちです。"
+
+#: classes/class-twentytwenty-walker-comment.php:86
+#, gp-priority: normal
+msgid "Edit"
+msgstr "編集"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentytwenty-walker-comment.php:72
+#, gp-priority: normal
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: classes/class-twentytwenty-walker-comment.php:60
+#, gp-priority: normal
+msgid "says:"
+msgstr "の発言:"
+
+#: classes/class-twentytwenty-customize.php:401
+#, gp-priority: normal
+msgid "Make sure that the contrast is high enough so that the text is readable."
+msgstr "テキストが読みやすくなるよう、コントラストは十分に高くしましょう。"
+
+#: classes/class-twentytwenty-customize.php:311
+#, gp-priority: normal
+msgid "Creates a parallax effect when the visitor scrolls."
+msgstr "訪問者がスクロールした際にパララックス効果を作成します。"
+
+#: classes/class-twentytwenty-customize.php:310
+#, gp-priority: normal
+msgid "Fixed Background Image"
+msgstr "固定背景画像"
+
+#. Template Name of the theme
+#: classes/class-twentytwenty-customize.php:286
+#, gp-priority: normal
+msgid "Cover Template"
+msgstr "カバーテンプレート"
+
+#: classes/class-twentytwenty-customize.php:275
+#, gp-priority: normal
+msgid "Summary"
+msgstr "要約"
+
+#: classes/class-twentytwenty-customize.php:274
+#, gp-priority: normal
+msgid "Full text"
+msgstr "全文を表示"
+
+#: classes/class-twentytwenty-customize.php:272
+#, gp-priority: normal
+msgid "On archive pages, posts show:"
+msgstr "アーカイブページで投稿に表示:"
+
+#: classes/class-twentytwenty-customize.php:230
+#, gp-priority: normal
+msgid "Show search in header"
+msgstr "ヘッダーに検索を表示"
+
+#: classes/class-twentytwenty-customize.php:207
+#, gp-priority: normal
+msgid "Theme Options"
+msgstr "テーマオプション"
+
+#: classes/class-twentytwenty-customize.php:106
+#, gp-priority: normal
+msgid "Header &amp; Footer Background Color"
+msgstr "ヘッダーとフッターの背景色"
+
+#: classes/class-twentytwenty-customize.php:87
+#, gp-priority: normal
+msgid "Scales the logo to half its uploaded size, making it sharp on high-res screens."
+msgstr "ロゴをアップロードしたサイズの半分に縮小し、高解像度画面で鮮明に表示します。"
+
+#: classes/class-twentytwenty-customize.php:86
+#, gp-priority: normal
+msgid "Retina logo"
+msgstr "Retina 用ロゴ"
+
+#: 404.php:19
+#, gp-priority: normal
+msgid "The page you were looking for could not be found. It might have been removed, renamed, or did not exist in the first place."
+msgstr "お探しのページが見つかりませんでした。削除されたか、名前が変更されたか、または最初から存在しなかった可能性があります。"
+
+#: 404.php:17
+#, gp-priority: normal
+msgid "Page Not Found"
+msgstr "ページが見つかりません"
+
+#. Author URI of the theme
+#: footer.php:38
+#, gp-priority: low
+msgid "https://wordpress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "the WordPress team"
+msgstr "WordPress チーム"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://wordpress.org/themes/twentytwenty/"
+msgstr "https://wordpress.org/themes/twentytwenty/"

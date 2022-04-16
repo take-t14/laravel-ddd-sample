@@ -1,0 +1,2642 @@
+# Translation of WordPress - 5.9.x - Development - Continents & Cities in Japanese
+# This file is distributed under the same license as the WordPress - 5.9.x - Development - Continents & Cities package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-30 23:35:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-rc.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: WordPress - 5.9.x - Development - Continents & Cities\n"
+
+#: wp-admin/includes/continents-cities.php:319
+#, gp-priority: normal
+msgid "Qostanay"
+msgstr "コスタナイ"
+
+#: wp-admin/includes/continents-cities.php:187
+#, gp-priority: normal
+msgid "Nuuk"
+msgstr "ヌーク"
+
+#: wp-admin/includes/continents-cities.php:471
+#, gp-priority: normal
+msgid "Saratov"
+msgstr "サラトフ"
+
+#: wp-admin/includes/continents-cities.php:347
+#, gp-priority: normal
+msgid "Yangon"
+msgstr "ヤンゴン"
+
+#: wp-admin/includes/continents-cities.php:281
+#, gp-priority: normal
+msgid "Famagusta"
+msgstr "ファマグスタ"
+
+#: wp-admin/includes/continents-cities.php:260
+#, gp-priority: normal
+msgid "Atyrau"
+msgstr "アティラウ"
+
+#: wp-admin/includes/continents-cities.php:198
+#, gp-priority: normal
+msgid "Punta Arenas"
+msgstr "プンタ・アレーナス"
+
+#: wp-admin/includes/continents-cities.php:535
+#, gp-priority: normal
+msgid "Pohnpei"
+msgstr "ポンペイ"
+
+#: wp-admin/includes/continents-cities.php:509
+#, gp-priority: normal
+msgid "Chuuk"
+msgstr "チューク"
+
+#: wp-admin/includes/continents-cities.php:507
+#, gp-priority: normal
+msgid "Bougainville"
+msgstr "ブーゲンビル"
+
+#: wp-admin/includes/continents-cities.php:479
+#, gp-priority: normal
+msgid "Ulyanovsk"
+msgstr "ウラジオストク"
+
+#: wp-admin/includes/continents-cities.php:451
+#, gp-priority: normal
+msgid "Kirov"
+msgstr "キーロフ"
+
+#: wp-admin/includes/continents-cities.php:439
+#, gp-priority: normal
+msgid "Busingen"
+msgstr "ビュージンゲン"
+
+#: wp-admin/includes/continents-cities.php:430
+#, gp-priority: normal
+msgid "Astrakhan"
+msgstr "アストラハン"
+
+#: wp-admin/includes/continents-cities.php:343
+#, gp-priority: normal
+msgid "Ust-Nera"
+msgstr "ウスチ＝ネラ"
+
+#: wp-admin/includes/continents-cities.php:338
+#, gp-priority: normal
+msgid "Tomsk"
+msgstr "トムスク"
+
+#: wp-admin/includes/continents-cities.php:329
+#, gp-priority: normal
+msgid "Srednekolymsk"
+msgstr "スレドネコリムスク"
+
+#: wp-admin/includes/continents-cities.php:311
+#, gp-priority: normal
+msgid "Novokuznetsk"
+msgstr "ノヴォクズネツク"
+
+#: wp-admin/includes/continents-cities.php:298
+#, gp-priority: normal
+msgid "Khandyga"
+msgstr "ハンドゥイガ"
+
+#: wp-admin/includes/continents-cities.php:296
+#, gp-priority: normal
+msgid "Kathmandu"
+msgstr "カトマンズ"
+
+#: wp-admin/includes/continents-cities.php:284
+#, gp-priority: normal
+msgid "Hebron"
+msgstr "ヘブロン"
+
+#: wp-admin/includes/continents-cities.php:270
+#, gp-priority: normal
+msgid "Chita"
+msgstr "チタ"
+
+#: wp-admin/includes/continents-cities.php:265
+#, gp-priority: normal
+msgid "Barnaul"
+msgstr "バルナウル"
+
+#: wp-admin/includes/continents-cities.php:245
+#, gp-priority: normal
+msgid "Troll"
+msgstr "トロール"
+
+#: wp-admin/includes/continents-cities.php:238
+#, gp-priority: normal
+msgid "Macquarie"
+msgstr "マッコーリー"
+
+#: wp-admin/includes/continents-cities.php:213
+#, gp-priority: normal
+msgid "Sitka"
+msgstr "シトカ"
+
+#: wp-admin/includes/continents-cities.php:207
+#, gp-priority: normal
+msgid "Santarem"
+msgstr "サンタレン"
+
+#: wp-admin/includes/continents-cities.php:206
+#, gp-priority: normal
+msgid "Santa Isabel"
+msgstr "サンタイサベル"
+
+#: wp-admin/includes/continents-cities.php:188
+#, gp-priority: normal
+msgid "Ojinaga"
+msgstr "オヒナガ"
+
+#: wp-admin/includes/continents-cities.php:184
+#, gp-priority: normal
+msgid "Beulah"
+msgstr "ベウラ"
+
+#: wp-admin/includes/continents-cities.php:170
+#, gp-priority: normal
+msgid "Metlakatla"
+msgstr "メトラカトラ"
+
+#: wp-admin/includes/continents-cities.php:166
+#, gp-priority: normal
+msgid "Matamoros"
+msgstr "マタモロス"
+
+#: wp-admin/includes/continents-cities.php:160
+#, gp-priority: normal
+msgid "Lower Princes"
+msgstr "ローワープリンシズ"
+
+#: wp-admin/includes/continents-cities.php:156
+#, gp-priority: normal
+msgid "Kralendijk"
+msgstr "クラレンダイク"
+
+#: wp-admin/includes/continents-cities.php:124
+#, gp-priority: normal
+msgid "Fort Nelson"
+msgstr "フォートネルソン"
+
+#: wp-admin/includes/continents-cities.php:111
+#, gp-priority: normal
+msgid "Creston"
+msgstr "クレストン"
+
+#: wp-admin/includes/continents-cities.php:93
+#, gp-priority: normal
+msgid "Bahia Banderas"
+msgstr "バイーア・デ・バンデラス"
+
+#: wp-admin/includes/continents-cities.php:83
+#, gp-priority: normal
+msgid "Salta"
+msgstr "サルタ"
+
+#: wp-admin/includes/continents-cities.php:39
+#, gp-priority: normal
+msgid "Juba"
+msgstr "ジュバ"
+
+#: wp-admin/includes/continents-cities.php:547
+#, gp-priority: normal
+msgid "Yap"
+msgstr "ヤップ"
+
+#: wp-admin/includes/continents-cities.php:546
+#, gp-priority: normal
+msgid "Wallis"
+msgstr "ヴァレー"
+
+#: wp-admin/includes/continents-cities.php:545
+#, gp-priority: normal
+msgid "Wake"
+msgstr "ウェーク島"
+
+#: wp-admin/includes/continents-cities.php:544
+#, gp-priority: normal
+msgid "Truk"
+msgstr "チューク諸島"
+
+#: wp-admin/includes/continents-cities.php:543
+#, gp-priority: normal
+msgid "Tongatapu"
+msgstr "トンガタプ"
+
+#: wp-admin/includes/continents-cities.php:542
+#, gp-priority: normal
+msgid "Tarawa"
+msgstr "タラワ"
+
+#: wp-admin/includes/continents-cities.php:541
+#, gp-priority: normal
+msgid "Tahiti"
+msgstr "タヒチ"
+
+#: wp-admin/includes/continents-cities.php:540
+#, gp-priority: normal
+msgid "Samoa"
+msgstr "サモア"
+
+#: wp-admin/includes/continents-cities.php:539
+#, gp-priority: normal
+msgid "Saipan"
+msgstr "サイパン"
+
+#: wp-admin/includes/continents-cities.php:538
+#, gp-priority: normal
+msgid "Rarotonga"
+msgstr "ラロトンガ"
+
+#: wp-admin/includes/continents-cities.php:537
+#, gp-priority: normal
+msgid "Port Moresby"
+msgstr "ポートモレスビー"
+
+#: wp-admin/includes/continents-cities.php:536
+#, gp-priority: normal
+msgid "Ponape"
+msgstr "ポンペイ島"
+
+#: wp-admin/includes/continents-cities.php:534
+#, gp-priority: normal
+msgid "Pitcairn"
+msgstr "ピトケアン諸島"
+
+#: wp-admin/includes/continents-cities.php:533
+#, gp-priority: normal
+msgid "Palau"
+msgstr "パラウ"
+
+#: wp-admin/includes/continents-cities.php:532
+#, gp-priority: normal
+msgid "Pago Pago"
+msgstr "パゴパゴ"
+
+#: wp-admin/includes/continents-cities.php:531
+#, gp-priority: normal
+msgid "Noumea"
+msgstr "ヌメア"
+
+#: wp-admin/includes/continents-cities.php:530
+#, gp-priority: normal
+msgid "Norfolk"
+msgstr "ノーフォーク"
+
+#: wp-admin/includes/continents-cities.php:529
+#, gp-priority: normal
+msgid "Niue"
+msgstr "ニウエ"
+
+#: wp-admin/includes/continents-cities.php:528
+#, gp-priority: normal
+msgid "Nauru"
+msgstr "ナウル"
+
+#: wp-admin/includes/continents-cities.php:527
+#, gp-priority: normal
+msgid "Midway"
+msgstr "ミッドウェー諸島"
+
+#: wp-admin/includes/continents-cities.php:526
+#, gp-priority: normal
+msgid "Marquesas"
+msgstr "マルキーズ諸島"
+
+#: wp-admin/includes/continents-cities.php:525
+#, gp-priority: normal
+msgid "Majuro"
+msgstr "マジュロ"
+
+#: wp-admin/includes/continents-cities.php:524
+#, gp-priority: normal
+msgid "Kwajalein"
+msgstr "クェゼリン"
+
+#: wp-admin/includes/continents-cities.php:523
+#, gp-priority: normal
+msgid "Kosrae"
+msgstr "コスラエ"
+
+#: wp-admin/includes/continents-cities.php:522
+#, gp-priority: normal
+msgid "Kiritimati"
+msgstr "キリスィマスィ"
+
+#: wp-admin/includes/continents-cities.php:521
+#, gp-priority: normal
+msgid "Johnston"
+msgstr "ジョンストン島"
+
+#: wp-admin/includes/continents-cities.php:520
+#, gp-priority: normal
+msgid "Honolulu"
+msgstr "ホノルル"
+
+#: wp-admin/includes/continents-cities.php:519
+#, gp-priority: normal
+msgid "Guam"
+msgstr "グアム"
+
+#: wp-admin/includes/continents-cities.php:518
+#, gp-priority: normal
+msgid "Guadalcanal"
+msgstr "ガタルカナル島"
+
+#: wp-admin/includes/continents-cities.php:517
+#, gp-priority: normal
+msgid "Gambier"
+msgstr "ガンビア"
+
+#: wp-admin/includes/continents-cities.php:516
+#, gp-priority: normal
+msgid "Galapagos"
+msgstr "ガラパゴス諸島"
+
+#: wp-admin/includes/continents-cities.php:515
+#, gp-priority: normal
+msgid "Funafuti"
+msgstr "フナフティ"
+
+#: wp-admin/includes/continents-cities.php:514
+#, gp-priority: normal
+msgid "Fiji"
+msgstr "フィジー"
+
+#: wp-admin/includes/continents-cities.php:513
+#, gp-priority: normal
+msgid "Fakaofo"
+msgstr "ファカオフォ"
+
+#: wp-admin/includes/continents-cities.php:512
+#, gp-priority: normal
+msgid "Enderbury"
+msgstr "エンダーベリー"
+
+#: wp-admin/includes/continents-cities.php:511
+#, gp-priority: normal
+msgid "Efate"
+msgstr "エファテ島"
+
+#: wp-admin/includes/continents-cities.php:510
+#, gp-priority: normal
+msgid "Easter"
+msgstr "イースター島"
+
+#: wp-admin/includes/continents-cities.php:508
+#, gp-priority: normal
+msgid "Chatham"
+msgstr "チャタム"
+
+#: wp-admin/includes/continents-cities.php:506
+#, gp-priority: normal
+msgid "Auckland"
+msgstr "オークランド"
+
+#: wp-admin/includes/continents-cities.php:505
+#, gp-priority: normal
+msgid "Apia"
+msgstr "アピア"
+
+#: wp-admin/includes/continents-cities.php:504
+#, gp-priority: normal
+msgid "Pacific"
+msgstr "太平洋"
+
+#: wp-admin/includes/continents-cities.php:502
+#, gp-priority: normal
+msgid "Reunion"
+msgstr "レユニオン"
+
+#: wp-admin/includes/continents-cities.php:501
+#, gp-priority: normal
+msgid "Mayotte"
+msgstr "マヨット"
+
+#: wp-admin/includes/continents-cities.php:500
+#, gp-priority: normal
+msgid "Mauritius"
+msgstr "モーリシャス"
+
+#: wp-admin/includes/continents-cities.php:499
+#, gp-priority: normal
+msgid "Maldives"
+msgstr "モルディブ"
+
+#: wp-admin/includes/continents-cities.php:498
+#, gp-priority: normal
+msgid "Mahe"
+msgstr "マヘ"
+
+#: wp-admin/includes/continents-cities.php:497
+#, gp-priority: normal
+msgid "Kerguelen"
+msgstr "ケルゲレン諸島"
+
+#: wp-admin/includes/continents-cities.php:496
+#, gp-priority: normal
+msgid "Comoro"
+msgstr "コモロ"
+
+#: wp-admin/includes/continents-cities.php:495
+#, gp-priority: normal
+msgid "Cocos"
+msgstr "ココス諸島"
+
+#: wp-admin/includes/continents-cities.php:494
+#, gp-priority: normal
+msgid "Christmas"
+msgstr "クリスマス島"
+
+#: wp-admin/includes/continents-cities.php:493
+#, gp-priority: normal
+msgid "Chagos"
+msgstr "チャゴス諸島"
+
+#: wp-admin/includes/continents-cities.php:492
+#, gp-priority: normal
+msgid "Antananarivo"
+msgstr "アンタナナリボ"
+
+#: wp-admin/includes/continents-cities.php:491
+#, gp-priority: normal
+msgid "Indian"
+msgstr "インド"
+
+#: wp-admin/includes/continents-cities.php:489
+#, gp-priority: normal
+msgid "Zurich"
+msgstr "チューリッヒ"
+
+#: wp-admin/includes/continents-cities.php:488
+#, gp-priority: normal
+msgid "Zaporozhye"
+msgstr "ザポロージェ"
+
+#: wp-admin/includes/continents-cities.php:487
+#, gp-priority: normal
+msgid "Zagreb"
+msgstr "ザグレブ"
+
+#: wp-admin/includes/continents-cities.php:486
+#, gp-priority: normal
+msgid "Warsaw"
+msgstr "ワルシャワ"
+
+#: wp-admin/includes/continents-cities.php:485
+#, gp-priority: normal
+msgid "Volgograd"
+msgstr "ヴォルゴグラード"
+
+#: wp-admin/includes/continents-cities.php:484
+#, gp-priority: normal
+msgid "Vilnius"
+msgstr "ビリニュス"
+
+#: wp-admin/includes/continents-cities.php:483
+#, gp-priority: normal
+msgid "Vienna"
+msgstr "ウィーン"
+
+#: wp-admin/includes/continents-cities.php:482
+#, gp-priority: normal
+msgid "Vatican"
+msgstr "バチカン"
+
+#: wp-admin/includes/continents-cities.php:481
+#, gp-priority: normal
+msgid "Vaduz"
+msgstr "ファドゥーツ"
+
+#: wp-admin/includes/continents-cities.php:480
+#, gp-priority: normal
+msgid "Uzhgorod"
+msgstr "ウージュホロド"
+
+#: wp-admin/includes/continents-cities.php:478
+#, gp-priority: normal
+msgid "Tiraspol"
+msgstr "ティラスポリ"
+
+#: wp-admin/includes/continents-cities.php:477
+#, gp-priority: normal
+msgid "Tirane"
+msgstr "ティラナ"
+
+#: wp-admin/includes/continents-cities.php:476
+#, gp-priority: normal
+msgid "Tallinn"
+msgstr "タリン"
+
+#: wp-admin/includes/continents-cities.php:475
+#, gp-priority: normal
+msgid "Stockholm"
+msgstr "ストックホルム"
+
+#: wp-admin/includes/continents-cities.php:474
+#, gp-priority: normal
+msgid "Sofia"
+msgstr "ソフィア"
+
+#: wp-admin/includes/continents-cities.php:473
+#, gp-priority: normal
+msgid "Skopje"
+msgstr "スコピエ"
+
+#: wp-admin/includes/continents-cities.php:472
+#, gp-priority: normal
+msgid "Simferopol"
+msgstr "シンフェロポリ"
+
+#: wp-admin/includes/continents-cities.php:470
+#, gp-priority: normal
+msgid "Sarajevo"
+msgstr "サラエヴォ"
+
+#: wp-admin/includes/continents-cities.php:469
+#, gp-priority: normal
+msgid "San Marino"
+msgstr "サンマリノ"
+
+#: wp-admin/includes/continents-cities.php:468
+#, gp-priority: normal
+msgid "Samara"
+msgstr "サマラ"
+
+#: wp-admin/includes/continents-cities.php:467
+#, gp-priority: normal
+msgid "Rome"
+msgstr "ローマ"
+
+#: wp-admin/includes/continents-cities.php:466
+#, gp-priority: normal
+msgid "Riga"
+msgstr "リガ"
+
+#: wp-admin/includes/continents-cities.php:465
+#, gp-priority: normal
+msgid "Prague"
+msgstr "プラハ"
+
+#: wp-admin/includes/continents-cities.php:464
+#, gp-priority: normal
+msgid "Podgorica"
+msgstr "ポドゴリツァ"
+
+#: wp-admin/includes/continents-cities.php:463
+#, gp-priority: normal
+msgid "Paris"
+msgstr "パリ"
+
+#: wp-admin/includes/continents-cities.php:462
+#, gp-priority: normal
+msgid "Oslo"
+msgstr "オスロ"
+
+#: wp-admin/includes/continents-cities.php:461
+#, gp-priority: normal
+msgid "Moscow"
+msgstr "モスクワ"
+
+#: wp-admin/includes/continents-cities.php:460
+#, gp-priority: normal
+msgid "Monaco"
+msgstr "モナコ"
+
+#: wp-admin/includes/continents-cities.php:459
+#, gp-priority: normal
+msgid "Minsk"
+msgstr "ミンスク"
+
+#: wp-admin/includes/continents-cities.php:458
+#, gp-priority: normal
+msgid "Mariehamn"
+msgstr "マリエハムン"
+
+#: wp-admin/includes/continents-cities.php:457
+#, gp-priority: normal
+msgid "Malta"
+msgstr "マルタ"
+
+#: wp-admin/includes/continents-cities.php:456
+#, gp-priority: normal
+msgid "Madrid"
+msgstr "マドリード"
+
+#: wp-admin/includes/continents-cities.php:455
+#, gp-priority: normal
+msgid "Luxembourg"
+msgstr "ルクセンブルク"
+
+#: wp-admin/includes/continents-cities.php:454
+#, gp-priority: normal
+msgid "London"
+msgstr "ロンドン"
+
+#: wp-admin/includes/continents-cities.php:453
+#, gp-priority: normal
+msgid "Ljubljana"
+msgstr "リュブリャナ"
+
+#: wp-admin/includes/continents-cities.php:452
+#, gp-priority: normal
+msgid "Lisbon"
+msgstr "リスボン"
+
+#: wp-admin/includes/continents-cities.php:450
+#, gp-priority: normal
+msgid "Kiev"
+msgstr "キエフ"
+
+#: wp-admin/includes/continents-cities.php:449
+#, gp-priority: normal
+msgid "Kaliningrad"
+msgstr "カリーニングラード"
+
+#: wp-admin/includes/continents-cities.php:448
+#, gp-priority: normal
+msgid "Jersey"
+msgstr "ジャージー島"
+
+#: wp-admin/includes/continents-cities.php:446
+#, gp-priority: normal
+msgid "Isle of Man"
+msgstr "マン島"
+
+#: wp-admin/includes/continents-cities.php:445
+#, gp-priority: normal
+msgid "Helsinki"
+msgstr "ヘルシンキ"
+
+#: wp-admin/includes/continents-cities.php:444
+#, gp-priority: normal
+msgid "Guernsey"
+msgstr "ガーンジー"
+
+#: wp-admin/includes/continents-cities.php:443
+#, gp-priority: normal
+msgid "Gibraltar"
+msgstr "ジブラルタル"
+
+#: wp-admin/includes/continents-cities.php:442
+#, gp-priority: normal
+msgid "Dublin"
+msgstr "ダブリン"
+
+#: wp-admin/includes/continents-cities.php:441
+#, gp-priority: normal
+msgid "Copenhagen"
+msgstr "コペンハーゲン"
+
+#: wp-admin/includes/continents-cities.php:440
+#, gp-priority: normal
+msgid "Chisinau"
+msgstr "キシナウ"
+
+#: wp-admin/includes/continents-cities.php:438
+#, gp-priority: normal
+msgid "Budapest"
+msgstr "ブダペスト"
+
+#: wp-admin/includes/continents-cities.php:437
+#, gp-priority: normal
+msgid "Bucharest"
+msgstr "ブカレスト"
+
+#: wp-admin/includes/continents-cities.php:436
+#, gp-priority: normal
+msgid "Brussels"
+msgstr "ブリュッセル"
+
+#: wp-admin/includes/continents-cities.php:435
+#, gp-priority: normal
+msgid "Bratislava"
+msgstr "ブラチスラヴァ"
+
+#: wp-admin/includes/continents-cities.php:434
+#, gp-priority: normal
+msgid "Berlin"
+msgstr "ベルリン"
+
+#: wp-admin/includes/continents-cities.php:433
+#, gp-priority: normal
+msgid "Belgrade"
+msgstr "ベオグラード"
+
+#: wp-admin/includes/continents-cities.php:432
+#, gp-priority: normal
+msgid "Belfast"
+msgstr "ベルファスト"
+
+#: wp-admin/includes/continents-cities.php:431
+#, gp-priority: normal
+msgid "Athens"
+msgstr "アテネ"
+
+#: wp-admin/includes/continents-cities.php:429
+#, gp-priority: normal
+msgid "Andorra"
+msgstr "アンドラ"
+
+#: wp-admin/includes/continents-cities.php:428
+#, gp-priority: normal
+msgid "Amsterdam"
+msgstr "アムステルダム"
+
+#: wp-admin/includes/continents-cities.php:427
+#, gp-priority: normal
+msgid "Europe"
+msgstr "ヨーロッパ"
+
+#: wp-admin/includes/continents-cities.php:425
+#, gp-priority: normal
+msgid "Zulu"
+msgstr "ズールー"
+
+#: wp-admin/includes/continents-cities.php:423
+#, gp-priority: normal
+msgid "UTC"
+msgstr "協定世界時 (UTC)"
+
+#: wp-admin/includes/continents-cities.php:424
+#, gp-priority: normal
+msgid "Universal"
+msgstr "ユニバーサル"
+
+#: wp-admin/includes/continents-cities.php:422
+#, gp-priority: normal
+msgid "UCT"
+msgstr "UCT"
+
+#: wp-admin/includes/continents-cities.php:421
+#, gp-priority: normal
+msgid "Greenwich"
+msgstr "グリニッジ"
+
+#: wp-admin/includes/continents-cities.php:420
+#, gp-priority: normal
+msgid "GMT0"
+msgstr "GMT0"
+
+#: wp-admin/includes/continents-cities.php:419
+#, gp-priority: normal
+msgid "GMT-9"
+msgstr "GMT-9"
+
+#: wp-admin/includes/continents-cities.php:418
+#, gp-priority: normal
+msgid "GMT-8"
+msgstr "GMT-8"
+
+#: wp-admin/includes/continents-cities.php:417
+#, gp-priority: normal
+msgid "GMT-7"
+msgstr "GMT-7"
+
+#: wp-admin/includes/continents-cities.php:416
+#, gp-priority: normal
+msgid "GMT-6"
+msgstr "GMT-6"
+
+#: wp-admin/includes/continents-cities.php:415
+#, gp-priority: normal
+msgid "GMT-5"
+msgstr "GMT-5"
+
+#: wp-admin/includes/continents-cities.php:414
+#, gp-priority: normal
+msgid "GMT-4"
+msgstr "GMT-4"
+
+#: wp-admin/includes/continents-cities.php:413
+#, gp-priority: normal
+msgid "GMT-3"
+msgstr "GMT-3"
+
+#: wp-admin/includes/continents-cities.php:412
+#, gp-priority: normal
+msgid "GMT-2"
+msgstr "GMT-2"
+
+#: wp-admin/includes/continents-cities.php:411
+#, gp-priority: normal
+msgid "GMT-14"
+msgstr "GMT-14"
+
+#: wp-admin/includes/continents-cities.php:410
+#, gp-priority: normal
+msgid "GMT-13"
+msgstr "GMT-13"
+
+#: wp-admin/includes/continents-cities.php:409
+#, gp-priority: normal
+msgid "GMT-12"
+msgstr "GMT-12"
+
+#: wp-admin/includes/continents-cities.php:408
+#, gp-priority: normal
+msgid "GMT-11"
+msgstr "GMT-11"
+
+#: wp-admin/includes/continents-cities.php:407
+#, gp-priority: normal
+msgid "GMT-10"
+msgstr "GMT-10"
+
+#: wp-admin/includes/continents-cities.php:406
+#, gp-priority: normal
+msgid "GMT-1"
+msgstr "GMT-1"
+
+#: wp-admin/includes/continents-cities.php:405
+#, gp-priority: normal
+msgid "GMT-0"
+msgstr "GMT-0"
+
+#: wp-admin/includes/continents-cities.php:404
+#, gp-priority: normal
+msgid "GMT+9"
+msgstr "GMT+9"
+
+#: wp-admin/includes/continents-cities.php:403
+#, gp-priority: normal
+msgid "GMT+8"
+msgstr "GMT+8"
+
+#: wp-admin/includes/continents-cities.php:402
+#, gp-priority: normal
+msgid "GMT+7"
+msgstr "GMT+7"
+
+#: wp-admin/includes/continents-cities.php:401
+#, gp-priority: normal
+msgid "GMT+6"
+msgstr "GMT+6"
+
+#: wp-admin/includes/continents-cities.php:400
+#, gp-priority: normal
+msgid "GMT+5"
+msgstr "GMT+5"
+
+#: wp-admin/includes/continents-cities.php:399
+#, gp-priority: normal
+msgid "GMT+4"
+msgstr "GMT+4"
+
+#: wp-admin/includes/continents-cities.php:398
+#, gp-priority: normal
+msgid "GMT+3"
+msgstr "GMT+3"
+
+#: wp-admin/includes/continents-cities.php:397
+#, gp-priority: normal
+msgid "GMT+2"
+msgstr "GMT+2"
+
+#: wp-admin/includes/continents-cities.php:396
+#, gp-priority: normal
+msgid "GMT+12"
+msgstr "GMT+12"
+
+#: wp-admin/includes/continents-cities.php:395
+#, gp-priority: normal
+msgid "GMT+11"
+msgstr "GMT+11"
+
+#: wp-admin/includes/continents-cities.php:394
+#, gp-priority: normal
+msgid "GMT+10"
+msgstr "GMT+10"
+
+#: wp-admin/includes/continents-cities.php:393
+#, gp-priority: normal
+msgid "GMT+1"
+msgstr "GMT+1"
+
+#: wp-admin/includes/continents-cities.php:392
+#, gp-priority: normal
+msgid "GMT+0"
+msgstr "GMT+0"
+
+#: wp-admin/includes/continents-cities.php:391
+#, gp-priority: normal
+msgid "GMT"
+msgstr "グリニッジ標準時 (GMT)"
+
+#: wp-admin/includes/continents-cities.php:390
+#, gp-priority: normal
+msgid "Etc"
+msgstr "その他"
+
+#: wp-admin/includes/continents-cities.php:388
+#, gp-priority: normal
+msgid "Yancowinna"
+msgstr "ヤンコウィナ"
+
+#: wp-admin/includes/continents-cities.php:387
+#, gp-priority: normal
+msgid "West"
+msgstr "西ヨーロッパ夏時間 (WEST)"
+
+#: wp-admin/includes/continents-cities.php:386
+#, gp-priority: normal
+msgid "Victoria"
+msgstr "ビクトリア"
+
+#: wp-admin/includes/continents-cities.php:385
+#, gp-priority: normal
+msgid "Tasmania"
+msgstr "タスマニア"
+
+#: wp-admin/includes/continents-cities.php:384
+#, gp-priority: normal
+msgid "Sydney"
+msgstr "シドニー"
+
+#: wp-admin/includes/continents-cities.php:383
+#, gp-priority: normal
+msgid "South"
+msgstr "南部"
+
+#: wp-admin/includes/continents-cities.php:382
+#, gp-priority: normal
+msgid "Queensland"
+msgstr "クイーンズランド"
+
+#: wp-admin/includes/continents-cities.php:381
+#, gp-priority: normal
+msgid "Perth"
+msgstr "パース"
+
+#: wp-admin/includes/continents-cities.php:379
+#, gp-priority: normal
+msgid "NSW"
+msgstr "ニューサウスウェールズ"
+
+#: wp-admin/includes/continents-cities.php:380
+#, gp-priority: normal
+msgid "North"
+msgstr "北部"
+
+#: wp-admin/includes/continents-cities.php:378
+#, gp-priority: normal
+msgid "Melbourne"
+msgstr "メルボルン"
+
+#: wp-admin/includes/continents-cities.php:377
+#, gp-priority: normal
+msgid "Lord Howe"
+msgstr "ロードハウ島"
+
+#: wp-admin/includes/continents-cities.php:376
+#, gp-priority: normal
+msgid "Lindeman"
+msgstr "リンデマン"
+
+#: wp-admin/includes/continents-cities.php:375
+#, gp-priority: normal
+msgid "LHI"
+msgstr "ロードハウ島"
+
+#: wp-admin/includes/continents-cities.php:374
+#, gp-priority: normal
+msgid "Hobart"
+msgstr "ホバート"
+
+#: wp-admin/includes/continents-cities.php:373
+#, gp-priority: normal
+msgid "Eucla"
+msgstr "ユークラ"
+
+#: wp-admin/includes/continents-cities.php:372
+#, gp-priority: normal
+msgid "Darwin"
+msgstr "ダーウィン"
+
+#: wp-admin/includes/continents-cities.php:371
+#, gp-priority: normal
+msgid "Currie"
+msgstr "カリー"
+
+#: wp-admin/includes/continents-cities.php:370
+#, gp-priority: normal
+msgid "Canberra"
+msgstr "キャンベラ"
+
+#: wp-admin/includes/continents-cities.php:369
+#, gp-priority: normal
+msgid "Broken Hill"
+msgstr "ブロークンヒル"
+
+#: wp-admin/includes/continents-cities.php:368
+#, gp-priority: normal
+msgid "Brisbane"
+msgstr "ブリスベン"
+
+#: wp-admin/includes/continents-cities.php:367
+#, gp-priority: normal
+msgid "Adelaide"
+msgstr "アデレード"
+
+#: wp-admin/includes/continents-cities.php:366
+#, gp-priority: normal
+msgid "ACT"
+msgstr "オーストラリア首都特別地域 (ACT)"
+
+#: wp-admin/includes/continents-cities.php:365
+#, gp-priority: normal
+msgid "Australia"
+msgstr "オーストラリア"
+
+#: wp-admin/includes/continents-cities.php:363
+#, gp-priority: normal
+msgid "Stanley"
+msgstr "スタンレー"
+
+#: wp-admin/includes/continents-cities.php:362
+#, gp-priority: normal
+msgid "St Helena"
+msgstr "セントヘレナ"
+
+#: wp-admin/includes/continents-cities.php:361
+#, gp-priority: normal
+msgid "South Georgia"
+msgstr "サウスジョージア"
+
+#: wp-admin/includes/continents-cities.php:360
+#, gp-priority: normal
+msgid "Reykjavik"
+msgstr "レイキャビク"
+
+#: wp-admin/includes/continents-cities.php:359
+#, gp-priority: normal
+msgid "Madeira"
+msgstr "マデイラ諸島"
+
+#: wp-admin/includes/continents-cities.php:358
+#, gp-priority: normal
+msgid "Jan Mayen"
+msgstr "ヤンマイエン"
+
+#: wp-admin/includes/continents-cities.php:357
+#, gp-priority: normal
+msgid "Faroe"
+msgstr "フェロー諸島"
+
+#: wp-admin/includes/continents-cities.php:356
+#, gp-priority: normal
+msgid "Faeroe"
+msgstr "フェロー諸島"
+
+#: wp-admin/includes/continents-cities.php:355
+#, gp-priority: normal
+msgid "Cape Verde"
+msgstr "カーボベルデ"
+
+#: wp-admin/includes/continents-cities.php:354
+#, gp-priority: normal
+msgid "Canary"
+msgstr "カナリア諸島"
+
+#: wp-admin/includes/continents-cities.php:353
+#, gp-priority: normal
+msgid "Bermuda"
+msgstr "バミューダ島"
+
+#: wp-admin/includes/continents-cities.php:352
+#, gp-priority: normal
+msgid "Azores"
+msgstr "アゾレス諸島"
+
+#: wp-admin/includes/continents-cities.php:351
+#, gp-priority: normal
+msgid "Atlantic"
+msgstr "大西洋"
+
+#: wp-admin/includes/continents-cities.php:349
+#, gp-priority: normal
+msgid "Yerevan"
+msgstr "エレバン"
+
+#: wp-admin/includes/continents-cities.php:348
+#, gp-priority: normal
+msgid "Yekaterinburg"
+msgstr "エカテリンブルク"
+
+#: wp-admin/includes/continents-cities.php:346
+#, gp-priority: normal
+msgid "Yakutsk"
+msgstr "ヤクーツク"
+
+#: wp-admin/includes/continents-cities.php:345
+#, gp-priority: normal
+msgid "Vladivostok"
+msgstr "ウラジオストク"
+
+#: wp-admin/includes/continents-cities.php:344
+#, gp-priority: normal
+msgid "Vientiane"
+msgstr "ヴィエンチャン"
+
+#: wp-admin/includes/continents-cities.php:342
+#, gp-priority: normal
+msgid "Urumqi"
+msgstr "ウルムチ"
+
+#: wp-admin/includes/continents-cities.php:341
+#, gp-priority: normal
+msgid "Ulan Bator"
+msgstr "ウランバートル"
+
+#: wp-admin/includes/continents-cities.php:340
+#, gp-priority: normal
+msgid "Ulaanbaatar"
+msgstr "ウランバートル"
+
+#: wp-admin/includes/continents-cities.php:339
+#, gp-priority: normal
+msgid "Ujung Pandang"
+msgstr "マカッサル (ウジュン・パンダン)"
+
+#: wp-admin/includes/continents-cities.php:337
+#, gp-priority: normal
+msgid "Tokyo"
+msgstr "東京"
+
+#: wp-admin/includes/continents-cities.php:336
+#, gp-priority: normal
+msgid "Thimphu"
+msgstr "ティンプー"
+
+#: wp-admin/includes/continents-cities.php:335
+#, gp-priority: normal
+msgid "Thimbu"
+msgstr "ティンプー"
+
+#: wp-admin/includes/continents-cities.php:334
+#, gp-priority: normal
+msgid "Tel Aviv"
+msgstr "テルアビブ"
+
+#: wp-admin/includes/continents-cities.php:333
+#, gp-priority: normal
+msgid "Tehran"
+msgstr "テヘラン"
+
+#: wp-admin/includes/continents-cities.php:332
+#, gp-priority: normal
+msgid "Tbilisi"
+msgstr "トビリシ"
+
+#: wp-admin/includes/continents-cities.php:331
+#, gp-priority: normal
+msgid "Tashkent"
+msgstr "タシュケント"
+
+#: wp-admin/includes/continents-cities.php:330
+#, gp-priority: normal
+msgid "Taipei"
+msgstr "台北"
+
+#: wp-admin/includes/continents-cities.php:328
+#, gp-priority: normal
+msgid "Singapore"
+msgstr "シンガポール"
+
+#: wp-admin/includes/continents-cities.php:327
+#, gp-priority: normal
+msgid "Shanghai"
+msgstr "上海"
+
+#: wp-admin/includes/continents-cities.php:326
+#, gp-priority: normal
+msgid "Seoul"
+msgstr "ソウル"
+
+#: wp-admin/includes/continents-cities.php:325
+#, gp-priority: normal
+msgid "Samarkand"
+msgstr "サマルカンド"
+
+#: wp-admin/includes/continents-cities.php:324
+#, gp-priority: normal
+msgid "Sakhalin"
+msgstr "サハリン"
+
+#: wp-admin/includes/continents-cities.php:323
+#, gp-priority: normal
+msgid "Saigon"
+msgstr "サイゴン"
+
+#: wp-admin/includes/continents-cities.php:322
+#, gp-priority: normal
+msgid "Riyadh"
+msgstr "リヤド"
+
+#: wp-admin/includes/continents-cities.php:321
+#, gp-priority: normal
+msgid "Rangoon"
+msgstr "ヤンゴン"
+
+#: wp-admin/includes/continents-cities.php:320
+#, gp-priority: normal
+msgid "Qyzylorda"
+msgstr "クズロルダ"
+
+#: wp-admin/includes/continents-cities.php:318
+#, gp-priority: normal
+msgid "Qatar"
+msgstr "カタール"
+
+#: wp-admin/includes/continents-cities.php:317
+#, gp-priority: normal
+msgid "Pyongyang"
+msgstr "平壌"
+
+#: wp-admin/includes/continents-cities.php:316
+#, gp-priority: normal
+msgid "Pontianak"
+msgstr "ポンティアナック"
+
+#: wp-admin/includes/continents-cities.php:315
+#, gp-priority: normal
+msgid "Phnom Penh"
+msgstr "プノンペン"
+
+#: wp-admin/includes/continents-cities.php:314
+#, gp-priority: normal
+msgid "Oral"
+msgstr "オラル"
+
+#: wp-admin/includes/continents-cities.php:313
+#, gp-priority: normal
+msgid "Omsk"
+msgstr "オムスク"
+
+#: wp-admin/includes/continents-cities.php:312
+#, gp-priority: normal
+msgid "Novosibirsk"
+msgstr "ノヴォシビルスク"
+
+#: wp-admin/includes/continents-cities.php:310
+#, gp-priority: normal
+msgid "Nicosia"
+msgstr "ニコジーア"
+
+#: wp-admin/includes/continents-cities.php:309
+#, gp-priority: normal
+msgid "Muscat"
+msgstr "マスカット"
+
+#: wp-admin/includes/continents-cities.php:308
+#, gp-priority: normal
+msgid "Manila"
+msgstr "マニラ"
+
+#: wp-admin/includes/continents-cities.php:307
+#, gp-priority: normal
+msgid "Makassar"
+msgstr "マカッサル"
+
+#: wp-admin/includes/continents-cities.php:306
+#, gp-priority: normal
+msgid "Magadan"
+msgstr "マガダン"
+
+#: wp-admin/includes/continents-cities.php:305
+#, gp-priority: normal
+msgid "Macau"
+msgstr "マカオ"
+
+#: wp-admin/includes/continents-cities.php:304
+#, gp-priority: normal
+msgid "Macao"
+msgstr "マカオ"
+
+#: wp-admin/includes/continents-cities.php:303
+#, gp-priority: normal
+msgid "Kuwait"
+msgstr "クウェート"
+
+#: wp-admin/includes/continents-cities.php:302
+#, gp-priority: normal
+msgid "Kuching"
+msgstr "クチン"
+
+#: wp-admin/includes/continents-cities.php:301
+#, gp-priority: normal
+msgid "Kuala Lumpur"
+msgstr "クアラルンプール"
+
+#: wp-admin/includes/continents-cities.php:300
+#, gp-priority: normal
+msgid "Krasnoyarsk"
+msgstr "クラスノヤルスク"
+
+#: wp-admin/includes/continents-cities.php:299
+#, gp-priority: normal
+msgid "Kolkata"
+msgstr "コルカタ"
+
+#: wp-admin/includes/continents-cities.php:297
+#, gp-priority: normal
+msgid "Katmandu"
+msgstr "カトマンズ"
+
+#: wp-admin/includes/continents-cities.php:295
+#, gp-priority: normal
+msgid "Kashgar"
+msgstr "カシュガル"
+
+#: wp-admin/includes/continents-cities.php:294
+#, gp-priority: normal
+msgid "Karachi"
+msgstr "カラチ"
+
+#: wp-admin/includes/continents-cities.php:293
+#, gp-priority: normal
+msgid "Kamchatka"
+msgstr "カムチャッカ"
+
+#: wp-admin/includes/continents-cities.php:292
+#, gp-priority: normal
+msgid "Kabul"
+msgstr "カブール"
+
+#: wp-admin/includes/continents-cities.php:291
+#, gp-priority: normal
+msgid "Jerusalem"
+msgstr "エルサレム"
+
+#: wp-admin/includes/continents-cities.php:290
+#, gp-priority: normal
+msgid "Jayapura"
+msgstr "ジャヤプラ"
+
+#: wp-admin/includes/continents-cities.php:289
+#, gp-priority: normal
+msgid "Jakarta"
+msgstr "ジャカルタ"
+
+#: wp-admin/includes/continents-cities.php:447
+#, gp-priority: normal
+msgid "Istanbul"
+msgstr "イスタンブル"
+
+#: wp-admin/includes/continents-cities.php:288
+#, gp-priority: normal
+msgid "Irkutsk"
+msgstr "イルクーツク"
+
+#: wp-admin/includes/continents-cities.php:287
+#, gp-priority: normal
+msgid "Hovd"
+msgstr "ホブド"
+
+#: wp-admin/includes/continents-cities.php:286
+#, gp-priority: normal
+msgid "Hong Kong"
+msgstr "香港"
+
+#: wp-admin/includes/continents-cities.php:285
+#, gp-priority: normal
+msgid "Ho Chi Minh"
+msgstr "ホーチミン"
+
+#: wp-admin/includes/continents-cities.php:283
+#, gp-priority: normal
+msgid "Harbin"
+msgstr "ハルビン"
+
+#: wp-admin/includes/continents-cities.php:282
+#, gp-priority: normal
+msgid "Gaza"
+msgstr "ガザ"
+
+#: wp-admin/includes/continents-cities.php:280
+#, gp-priority: normal
+msgid "Dushanbe"
+msgstr "ドゥシャンベ"
+
+#: wp-admin/includes/continents-cities.php:279
+#, gp-priority: normal
+msgid "Dubai"
+msgstr "ドバイ"
+
+#: wp-admin/includes/continents-cities.php:278
+#, gp-priority: normal
+msgid "Dili"
+msgstr "ディリ"
+
+#: wp-admin/includes/continents-cities.php:277
+#, gp-priority: normal
+msgid "Dhaka"
+msgstr "ダッカ"
+
+#: wp-admin/includes/continents-cities.php:276
+#, gp-priority: normal
+msgid "Damascus"
+msgstr "ダマスカス"
+
+#: wp-admin/includes/continents-cities.php:275
+#, gp-priority: normal
+msgid "Dacca"
+msgstr "ダッカ"
+
+#: wp-admin/includes/continents-cities.php:274
+#, gp-priority: normal
+msgid "Colombo"
+msgstr "コロンボ"
+
+#: wp-admin/includes/continents-cities.php:273
+#, gp-priority: normal
+msgid "Chungking"
+msgstr "重慶"
+
+#: wp-admin/includes/continents-cities.php:272
+#, gp-priority: normal
+msgid "Chongqing"
+msgstr "重慶"
+
+#: wp-admin/includes/continents-cities.php:271
+#, gp-priority: normal
+msgid "Choibalsan"
+msgstr "チョイバルサン"
+
+#: wp-admin/includes/continents-cities.php:269
+#, gp-priority: normal
+msgid "Calcutta"
+msgstr "カルカッタ"
+
+#: wp-admin/includes/continents-cities.php:268
+#, gp-priority: normal
+msgid "Brunei"
+msgstr "ブルネイ"
+
+#: wp-admin/includes/continents-cities.php:267
+#, gp-priority: normal
+msgid "Bishkek"
+msgstr "ビシュケク"
+
+#: wp-admin/includes/continents-cities.php:266
+#, gp-priority: normal
+msgid "Beirut"
+msgstr "ベイルート"
+
+#: wp-admin/includes/continents-cities.php:264
+#, gp-priority: normal
+msgid "Bangkok"
+msgstr "バンコク"
+
+#: wp-admin/includes/continents-cities.php:263
+#, gp-priority: normal
+msgid "Baku"
+msgstr "バクー"
+
+#: wp-admin/includes/continents-cities.php:262
+#, gp-priority: normal
+msgid "Bahrain"
+msgstr "バーレーン"
+
+#: wp-admin/includes/continents-cities.php:261
+#, gp-priority: normal
+msgid "Baghdad"
+msgstr "バグダード"
+
+#: wp-admin/includes/continents-cities.php:259
+#, gp-priority: normal
+msgid "Ashkhabad"
+msgstr "アシガバート"
+
+#: wp-admin/includes/continents-cities.php:258
+#, gp-priority: normal
+msgid "Ashgabat"
+msgstr "アシガバート"
+
+#: wp-admin/includes/continents-cities.php:257
+#, gp-priority: normal
+msgid "Aqtobe"
+msgstr "アクトベ"
+
+#: wp-admin/includes/continents-cities.php:256
+#, gp-priority: normal
+msgid "Aqtau"
+msgstr "アクタウ"
+
+#: wp-admin/includes/continents-cities.php:255
+#, gp-priority: normal
+msgid "Anadyr"
+msgstr "アナディリ"
+
+#: wp-admin/includes/continents-cities.php:254
+#, gp-priority: normal
+msgid "Amman"
+msgstr "アンマン"
+
+#: wp-admin/includes/continents-cities.php:253
+#, gp-priority: normal
+msgid "Almaty"
+msgstr "アルマトイ"
+
+#: wp-admin/includes/continents-cities.php:252
+#, gp-priority: normal
+msgid "Aden"
+msgstr "アデン"
+
+#: wp-admin/includes/continents-cities.php:251
+#, gp-priority: normal
+msgid "Asia"
+msgstr "アジア"
+
+#: wp-admin/includes/continents-cities.php:249
+#, gp-priority: normal
+msgid "Longyearbyen"
+msgstr "ロングイェールビーン"
+
+#: wp-admin/includes/continents-cities.php:248
+#, gp-priority: normal
+msgid "Arctic"
+msgstr "北極"
+
+#: wp-admin/includes/continents-cities.php:246
+#, gp-priority: normal
+msgid "Vostok"
+msgstr "ボストーク"
+
+#: wp-admin/includes/continents-cities.php:244
+#, gp-priority: normal
+msgid "Syowa"
+msgstr "昭和基地"
+
+#: wp-admin/includes/continents-cities.php:243
+#, gp-priority: normal
+msgid "South Pole"
+msgstr "南極点"
+
+#: wp-admin/includes/continents-cities.php:242
+#, gp-priority: normal
+msgid "Rothera"
+msgstr "ロゼラ"
+
+#: wp-admin/includes/continents-cities.php:241
+#, gp-priority: normal
+msgid "Palmer"
+msgstr "パーマー"
+
+#: wp-admin/includes/continents-cities.php:240
+#, gp-priority: normal
+msgid "McMurdo"
+msgstr "マクマード"
+
+#: wp-admin/includes/continents-cities.php:239
+#, gp-priority: normal
+msgid "Mawson"
+msgstr "モーソン"
+
+#: wp-admin/includes/continents-cities.php:237
+#, gp-priority: normal
+msgid "DumontDUrville"
+msgstr "デュモンデュルビル"
+
+#: wp-admin/includes/continents-cities.php:236
+#, gp-priority: normal
+msgid "Davis"
+msgstr "デイビス"
+
+#: wp-admin/includes/continents-cities.php:235
+#, gp-priority: normal
+msgid "Casey"
+msgstr "ケーシー"
+
+#: wp-admin/includes/continents-cities.php:234
+#, gp-priority: normal
+msgid "Antarctica"
+msgstr "南極"
+
+#: wp-admin/includes/continents-cities.php:232
+#, gp-priority: normal
+msgid "Yellowknife"
+msgstr "イエローナイフ"
+
+#: wp-admin/includes/continents-cities.php:231
+#, gp-priority: normal
+msgid "Yakutat"
+msgstr "ヤクタト"
+
+#: wp-admin/includes/continents-cities.php:230
+#, gp-priority: normal
+msgid "Winnipeg"
+msgstr "ウィニペグ"
+
+#: wp-admin/includes/continents-cities.php:229
+#, gp-priority: normal
+msgid "Whitehorse"
+msgstr "ホワイトホース"
+
+#: wp-admin/includes/continents-cities.php:228
+#, gp-priority: normal
+msgid "Virgin"
+msgstr "ヴァージン"
+
+#: wp-admin/includes/continents-cities.php:227
+#, gp-priority: normal
+msgid "Vancouver"
+msgstr "バンクーバー"
+
+#: wp-admin/includes/continents-cities.php:226
+#, gp-priority: normal
+msgid "Tortola"
+msgstr "トルトラ"
+
+#: wp-admin/includes/continents-cities.php:225
+#, gp-priority: normal
+msgid "Toronto"
+msgstr "トロント"
+
+#: wp-admin/includes/continents-cities.php:224
+#, gp-priority: normal
+msgid "Tijuana"
+msgstr "ティフアナ"
+
+#: wp-admin/includes/continents-cities.php:223
+#, gp-priority: normal
+msgid "Thunder Bay"
+msgstr "サンダーベイ"
+
+#: wp-admin/includes/continents-cities.php:222
+#, gp-priority: normal
+msgid "Thule"
+msgstr "チューレ"
+
+#: wp-admin/includes/continents-cities.php:221
+#, gp-priority: normal
+msgid "Tegucigalpa"
+msgstr "テグシガルパ"
+
+#: wp-admin/includes/continents-cities.php:220
+#, gp-priority: normal
+msgid "Swift Current"
+msgstr "スウィフトカレント"
+
+#: wp-admin/includes/continents-cities.php:219
+#, gp-priority: normal
+msgid "St Vincent"
+msgstr "セントビンセント"
+
+#: wp-admin/includes/continents-cities.php:218
+#, gp-priority: normal
+msgid "St Thomas"
+msgstr "セントトーマス"
+
+#: wp-admin/includes/continents-cities.php:217
+#, gp-priority: normal
+msgid "St Lucia"
+msgstr "セントルシア"
+
+#: wp-admin/includes/continents-cities.php:216
+#, gp-priority: normal
+msgid "St Kitts"
+msgstr "セントクリストファー・ネイビス"
+
+#: wp-admin/includes/continents-cities.php:215
+#, gp-priority: normal
+msgid "St Johns"
+msgstr "セントジョーンズ"
+
+#: wp-admin/includes/continents-cities.php:214
+#, gp-priority: normal
+msgid "St Barthelemy"
+msgstr "サン・バルテルミー"
+
+#: wp-admin/includes/continents-cities.php:212
+#, gp-priority: normal
+msgid "Shiprock"
+msgstr "シップロック"
+
+#: wp-admin/includes/continents-cities.php:211
+#, gp-priority: normal
+msgid "Scoresbysund"
+msgstr "スコルズビスーン"
+
+#: wp-admin/includes/continents-cities.php:210
+#, gp-priority: normal
+msgid "Sao Paulo"
+msgstr "サンパウロ"
+
+#: wp-admin/includes/continents-cities.php:209
+#, gp-priority: normal
+msgid "Santo Domingo"
+msgstr "サントドミンゴ"
+
+#: wp-admin/includes/continents-cities.php:208
+#, gp-priority: normal
+msgid "Santiago"
+msgstr "サンティアゴ"
+
+#: wp-admin/includes/continents-cities.php:205
+#, gp-priority: normal
+msgid "Rosario"
+msgstr "ロサリオ"
+
+#: wp-admin/includes/continents-cities.php:204
+#, gp-priority: normal
+msgid "Rio Branco"
+msgstr "リオ・ブランコ"
+
+#: wp-admin/includes/continents-cities.php:203
+#, gp-priority: normal
+msgid "Resolute"
+msgstr "レゾリュート"
+
+#: wp-admin/includes/continents-cities.php:202
+#, gp-priority: normal
+msgid "Regina"
+msgstr "レジャイナ"
+
+#: wp-admin/includes/continents-cities.php:201
+#, gp-priority: normal
+msgid "Recife"
+msgstr "レシフェ"
+
+#: wp-admin/includes/continents-cities.php:200
+#, gp-priority: normal
+msgid "Rankin Inlet"
+msgstr "ランキンインレット"
+
+#: wp-admin/includes/continents-cities.php:199
+#, gp-priority: normal
+msgid "Rainy River"
+msgstr "レイニーリバー"
+
+#: wp-admin/includes/continents-cities.php:197
+#, gp-priority: normal
+msgid "Puerto Rico"
+msgstr "プエルトリコ"
+
+#: wp-admin/includes/continents-cities.php:196
+#, gp-priority: normal
+msgid "Porto Velho"
+msgstr "ポルトベーリョ"
+
+#: wp-admin/includes/continents-cities.php:195
+#, gp-priority: normal
+msgid "Porto Acre"
+msgstr "ポルトアクレ"
+
+#: wp-admin/includes/continents-cities.php:194
+#, gp-priority: normal
+msgid "Port of Spain"
+msgstr "ポートオブスペイン"
+
+#: wp-admin/includes/continents-cities.php:193
+#, gp-priority: normal
+msgid "Port-au-Prince"
+msgstr "ポルトープランス"
+
+#: wp-admin/includes/continents-cities.php:192
+#, gp-priority: normal
+msgid "Phoenix"
+msgstr "フェニックス"
+
+#: wp-admin/includes/continents-cities.php:191
+#, gp-priority: normal
+msgid "Paramaribo"
+msgstr "パラマリボ"
+
+#: wp-admin/includes/continents-cities.php:190
+#, gp-priority: normal
+msgid "Pangnirtung"
+msgstr "パンニルトゥング"
+
+#: wp-admin/includes/continents-cities.php:189
+#, gp-priority: normal
+msgid "Panama"
+msgstr "パナマ"
+
+#: wp-admin/includes/continents-cities.php:186
+#, gp-priority: normal
+msgid "New Salem"
+msgstr "ニューセーラム"
+
+#: wp-admin/includes/continents-cities.php:185
+#, gp-priority: normal
+msgid "Center"
+msgstr "センター"
+
+#: wp-admin/includes/continents-cities.php:183
+#, gp-priority: normal
+msgid "North Dakota"
+msgstr "ノースダコタ"
+
+#: wp-admin/includes/continents-cities.php:182
+#, gp-priority: normal
+msgid "Noronha"
+msgstr "ローニャ"
+
+#: wp-admin/includes/continents-cities.php:181
+#, gp-priority: normal
+msgid "Nome"
+msgstr "ノーム"
+
+#: wp-admin/includes/continents-cities.php:180
+#, gp-priority: normal
+msgid "Nipigon"
+msgstr "ニピゴン"
+
+#: wp-admin/includes/continents-cities.php:179
+#, gp-priority: normal
+msgid "New York"
+msgstr "ニューヨーク"
+
+#: wp-admin/includes/continents-cities.php:178
+#, gp-priority: normal
+msgid "Nassau"
+msgstr "ナッソー"
+
+#: wp-admin/includes/continents-cities.php:177
+#, gp-priority: normal
+msgid "Montserrat"
+msgstr "モントセラート"
+
+#: wp-admin/includes/continents-cities.php:176
+#, gp-priority: normal
+msgid "Montreal"
+msgstr "モントリオール"
+
+#: wp-admin/includes/continents-cities.php:175
+#, gp-priority: normal
+msgid "Montevideo"
+msgstr "モンテビデオ"
+
+#: wp-admin/includes/continents-cities.php:174
+#, gp-priority: normal
+msgid "Monterrey"
+msgstr "モンテレー"
+
+#: wp-admin/includes/continents-cities.php:173
+#, gp-priority: normal
+msgid "Moncton"
+msgstr "モンクトン"
+
+#: wp-admin/includes/continents-cities.php:172
+#, gp-priority: normal
+msgid "Miquelon"
+msgstr "ミクロン"
+
+#: wp-admin/includes/continents-cities.php:171
+#, gp-priority: normal
+msgid "Mexico City"
+msgstr "メキシコシティ"
+
+#: wp-admin/includes/continents-cities.php:169
+#, gp-priority: normal
+msgid "Merida"
+msgstr "メリダ"
+
+#: wp-admin/includes/continents-cities.php:168
+#, gp-priority: normal
+msgid "Menominee"
+msgstr "メノミニー"
+
+#: wp-admin/includes/continents-cities.php:167
+#, gp-priority: normal
+msgid "Mazatlan"
+msgstr "マサトラン"
+
+#: wp-admin/includes/continents-cities.php:165
+#, gp-priority: normal
+msgid "Martinique"
+msgstr "マルティニーク"
+
+#: wp-admin/includes/continents-cities.php:164
+#, gp-priority: normal
+msgid "Marigot"
+msgstr "マリゴ"
+
+#: wp-admin/includes/continents-cities.php:163
+#, gp-priority: normal
+msgid "Manaus"
+msgstr "マナウス"
+
+#: wp-admin/includes/continents-cities.php:162
+#, gp-priority: normal
+msgid "Managua"
+msgstr "マナグア"
+
+#: wp-admin/includes/continents-cities.php:161
+#, gp-priority: normal
+msgid "Maceio"
+msgstr "マセイオ"
+
+#: wp-admin/includes/continents-cities.php:159
+#, gp-priority: normal
+msgid "Los Angeles"
+msgstr "ロサンゼルス"
+
+#: wp-admin/includes/continents-cities.php:158
+#, gp-priority: normal
+msgid "Lima"
+msgstr "リマ"
+
+#: wp-admin/includes/continents-cities.php:157
+#, gp-priority: normal
+msgid "La Paz"
+msgstr "ラパス"
+
+#: wp-admin/includes/continents-cities.php:155
+#, gp-priority: normal
+msgid "Knox IN"
+msgstr "インディアナ州ノックス"
+
+#: wp-admin/includes/continents-cities.php:154
+#, gp-priority: normal
+msgid "Monticello"
+msgstr "モンティチェロ"
+
+#: wp-admin/includes/continents-cities.php:153
+#, gp-priority: normal
+msgid "Louisville"
+msgstr "ルイビル"
+
+#: wp-admin/includes/continents-cities.php:152
+#, gp-priority: normal
+msgid "Kentucky"
+msgstr "ケンタッキー"
+
+#: wp-admin/includes/continents-cities.php:151
+#, gp-priority: normal
+msgid "Juneau"
+msgstr "ジュノー"
+
+#: wp-admin/includes/continents-cities.php:150
+#, gp-priority: normal
+msgid "Jamaica"
+msgstr "ジャマイカ"
+
+#: wp-admin/includes/continents-cities.php:149
+#, gp-priority: normal
+msgid "Iqaluit"
+msgstr "イカルイト"
+
+#: wp-admin/includes/continents-cities.php:148
+#, gp-priority: normal
+msgid "Inuvik"
+msgstr "イヌヴィック"
+
+#: wp-admin/includes/continents-cities.php:147
+#, gp-priority: normal
+msgid "Winamac"
+msgstr "ウィナマク"
+
+#: wp-admin/includes/continents-cities.php:146
+#, gp-priority: normal
+msgid "Vincennes"
+msgstr "ヴァンセンヌ"
+
+#: wp-admin/includes/continents-cities.php:145
+#, gp-priority: normal
+msgid "Vevay"
+msgstr "ベベイ"
+
+#: wp-admin/includes/continents-cities.php:144
+#, gp-priority: normal
+msgid "Tell City"
+msgstr "テル・シティ"
+
+#: wp-admin/includes/continents-cities.php:143
+#, gp-priority: normal
+msgid "Petersburg"
+msgstr "ピーターズバーグ"
+
+#: wp-admin/includes/continents-cities.php:142
+#, gp-priority: normal
+msgid "Marengo"
+msgstr "マレンゴ"
+
+#: wp-admin/includes/continents-cities.php:141
+#, gp-priority: normal
+msgid "Knox"
+msgstr "ノックス"
+
+#: wp-admin/includes/continents-cities.php:140
+#, gp-priority: normal
+msgid "Indianapolis"
+msgstr "インディアナポリス"
+
+#: wp-admin/includes/continents-cities.php:139
+#, gp-priority: normal
+msgid "Indiana"
+msgstr "インディアナ"
+
+#: wp-admin/includes/continents-cities.php:138
+#, gp-priority: normal
+msgid "Hermosillo"
+msgstr "エルモシージョ"
+
+#: wp-admin/includes/continents-cities.php:137
+#, gp-priority: normal
+msgid "Havana"
+msgstr "ハバナ"
+
+#: wp-admin/includes/continents-cities.php:136
+#, gp-priority: normal
+msgid "Halifax"
+msgstr "ハリファックス"
+
+#: wp-admin/includes/continents-cities.php:135
+#, gp-priority: normal
+msgid "Guyana"
+msgstr "ガイアナ"
+
+#: wp-admin/includes/continents-cities.php:134
+#, gp-priority: normal
+msgid "Guayaquil"
+msgstr "グアヤキル"
+
+#: wp-admin/includes/continents-cities.php:133
+#, gp-priority: normal
+msgid "Guatemala"
+msgstr "グアテマラ"
+
+#: wp-admin/includes/continents-cities.php:132
+#, gp-priority: normal
+msgid "Guadeloupe"
+msgstr "グアドループ"
+
+#: wp-admin/includes/continents-cities.php:131
+#, gp-priority: normal
+msgid "Grenada"
+msgstr "グレナダ"
+
+#: wp-admin/includes/continents-cities.php:130
+#, gp-priority: normal
+msgid "Grand Turk"
+msgstr "グランドターク"
+
+#: wp-admin/includes/continents-cities.php:129
+#, gp-priority: normal
+msgid "Goose Bay"
+msgstr "グースベイ"
+
+#: wp-admin/includes/continents-cities.php:128
+#, gp-priority: normal
+msgid "Godthab"
+msgstr "ヌーク (ゴットホープ)"
+
+#: wp-admin/includes/continents-cities.php:127
+#, gp-priority: normal
+msgid "Glace Bay"
+msgstr "グレースベイ"
+
+#: wp-admin/includes/continents-cities.php:126
+#, gp-priority: normal
+msgid "Fortaleza"
+msgstr "フォルタレザ"
+
+#: wp-admin/includes/continents-cities.php:125
+#, gp-priority: normal
+msgid "Fort Wayne"
+msgstr "フォートウェイン"
+
+#: wp-admin/includes/continents-cities.php:123
+#, gp-priority: normal
+msgid "Ensenada"
+msgstr "エンセナダ"
+
+#: wp-admin/includes/continents-cities.php:122
+#, gp-priority: normal
+msgid "El Salvador"
+msgstr "エルサルバドル"
+
+#: wp-admin/includes/continents-cities.php:121
+#, gp-priority: normal
+msgid "Eirunepe"
+msgstr "エイルネペ"
+
+#: wp-admin/includes/continents-cities.php:120
+#, gp-priority: normal
+msgid "Edmonton"
+msgstr "エドモントン"
+
+#: wp-admin/includes/continents-cities.php:119
+#, gp-priority: normal
+msgid "Dominica"
+msgstr "ドミニカ"
+
+#: wp-admin/includes/continents-cities.php:118
+#, gp-priority: normal
+msgid "Detroit"
+msgstr "デトロイト"
+
+#: wp-admin/includes/continents-cities.php:117
+#, gp-priority: normal
+msgid "Denver"
+msgstr "デンバー"
+
+#: wp-admin/includes/continents-cities.php:116
+#, gp-priority: normal
+msgid "Dawson Creek"
+msgstr "ドーソン・クリーク"
+
+#: wp-admin/includes/continents-cities.php:115
+#, gp-priority: normal
+msgid "Dawson"
+msgstr "ドーソン"
+
+#: wp-admin/includes/continents-cities.php:114
+#, gp-priority: normal
+msgid "Danmarkshavn"
+msgstr "ダンマークシャウン"
+
+#: wp-admin/includes/continents-cities.php:113
+#, gp-priority: normal
+msgid "Curacao"
+msgstr "キュラソー"
+
+#: wp-admin/includes/continents-cities.php:112
+#, gp-priority: normal
+msgid "Cuiaba"
+msgstr "クイアバ"
+
+#: wp-admin/includes/continents-cities.php:110
+#, gp-priority: normal
+msgid "Costa Rica"
+msgstr "コスタリカ"
+
+#: wp-admin/includes/continents-cities.php:109
+#, gp-priority: normal
+msgid "Coral Harbour"
+msgstr "コーラルハーバー"
+
+#: wp-admin/includes/continents-cities.php:108
+#, gp-priority: normal
+msgid "Chihuahua"
+msgstr "チワワ"
+
+#: wp-admin/includes/continents-cities.php:107
+#, gp-priority: normal
+msgid "Chicago"
+msgstr "シカゴ"
+
+#: wp-admin/includes/continents-cities.php:106
+#, gp-priority: normal
+msgid "Cayman"
+msgstr "ケイマン諸島"
+
+#: wp-admin/includes/continents-cities.php:105
+#, gp-priority: normal
+msgid "Cayenne"
+msgstr "カイエンヌ"
+
+#: wp-admin/includes/continents-cities.php:104
+#, gp-priority: normal
+msgid "Caracas"
+msgstr "カラカス"
+
+#: wp-admin/includes/continents-cities.php:103
+#, gp-priority: normal
+msgid "Cancun"
+msgstr "カンクン"
+
+#: wp-admin/includes/continents-cities.php:102
+#, gp-priority: normal
+msgid "Campo Grande"
+msgstr "カンポ・グランデ"
+
+#: wp-admin/includes/continents-cities.php:101
+#, gp-priority: normal
+msgid "Cambridge Bay"
+msgstr "ケンブリッジベイ"
+
+#: wp-admin/includes/continents-cities.php:100
+#, gp-priority: normal
+msgid "Boise"
+msgstr "ボイシ"
+
+#: wp-admin/includes/continents-cities.php:99
+#, gp-priority: normal
+msgid "Bogota"
+msgstr "ボゴタ"
+
+#: wp-admin/includes/continents-cities.php:98
+#, gp-priority: normal
+msgid "Boa Vista"
+msgstr "ボア・ヴィスタ"
+
+#: wp-admin/includes/continents-cities.php:97
+#, gp-priority: normal
+msgid "Blanc-Sablon"
+msgstr "ブラン・サブロン"
+
+#: wp-admin/includes/continents-cities.php:96
+#, gp-priority: normal
+msgid "Belize"
+msgstr "ベリーズ"
+
+#: wp-admin/includes/continents-cities.php:95
+#, gp-priority: normal
+msgid "Belem"
+msgstr "ベレン"
+
+#: wp-admin/includes/continents-cities.php:94
+#, gp-priority: normal
+msgid "Barbados"
+msgstr "バルバドス"
+
+#: wp-admin/includes/continents-cities.php:92
+#, gp-priority: normal
+msgid "Bahia"
+msgstr "バイーア"
+
+#: wp-admin/includes/continents-cities.php:91
+#, gp-priority: normal
+msgid "Atka"
+msgstr "アトカ島"
+
+#: wp-admin/includes/continents-cities.php:90
+#, gp-priority: normal
+msgid "Atikokan"
+msgstr "アティコカン"
+
+#: wp-admin/includes/continents-cities.php:89
+#, gp-priority: normal
+msgid "Asuncion"
+msgstr "アスンシオン"
+
+#: wp-admin/includes/continents-cities.php:88
+#, gp-priority: normal
+msgid "Aruba"
+msgstr "アルバ"
+
+#: wp-admin/includes/continents-cities.php:87
+#, gp-priority: normal
+msgid "Ushuaia"
+msgstr "ウスアイア"
+
+#: wp-admin/includes/continents-cities.php:86
+#, gp-priority: normal
+msgid "Tucuman"
+msgstr "トゥクマン"
+
+#: wp-admin/includes/continents-cities.php:85
+#, gp-priority: normal
+msgid "San Luis"
+msgstr "サンルイス"
+
+#: wp-admin/includes/continents-cities.php:84
+#, gp-priority: normal
+msgid "San Juan"
+msgstr "サンフアン"
+
+#: wp-admin/includes/continents-cities.php:82
+#, gp-priority: normal
+msgid "Rio Gallegos"
+msgstr "リオガジェゴス"
+
+#: wp-admin/includes/continents-cities.php:81
+#, gp-priority: normal
+msgid "Mendoza"
+msgstr "メンドーサ"
+
+#: wp-admin/includes/continents-cities.php:80
+#, gp-priority: normal
+msgid "La Rioja"
+msgstr "ラ・リオハ"
+
+#: wp-admin/includes/continents-cities.php:79
+#, gp-priority: normal
+msgid "Jujuy"
+msgstr "フフイ"
+
+#: wp-admin/includes/continents-cities.php:78
+#, gp-priority: normal
+msgid "Cordoba"
+msgstr "コルドバ"
+
+#: wp-admin/includes/continents-cities.php:77
+#, gp-priority: normal
+msgid "ComodRivadavia"
+msgstr "コモドリバダビア"
+
+#: wp-admin/includes/continents-cities.php:76
+#, gp-priority: normal
+msgid "Catamarca"
+msgstr "カタマルカ"
+
+#: wp-admin/includes/continents-cities.php:75
+#, gp-priority: normal
+msgid "Buenos Aires"
+msgstr "ブエノスアイレス"
+
+#: wp-admin/includes/continents-cities.php:74
+#, gp-priority: normal
+msgid "Argentina"
+msgstr "アルゼンチン"
+
+#: wp-admin/includes/continents-cities.php:73
+#, gp-priority: normal
+msgid "Araguaina"
+msgstr "アラグアイナ"
+
+#: wp-admin/includes/continents-cities.php:72
+#, gp-priority: normal
+msgid "Antigua"
+msgstr "アンティグア"
+
+#: wp-admin/includes/continents-cities.php:71
+#, gp-priority: normal
+msgid "Anguilla"
+msgstr "アンギラ"
+
+#: wp-admin/includes/continents-cities.php:70
+#, gp-priority: normal
+msgid "Anchorage"
+msgstr "アンカレッジ"
+
+#: wp-admin/includes/continents-cities.php:69
+#, gp-priority: normal
+msgid "Adak"
+msgstr "アダック"
+
+#: wp-admin/includes/continents-cities.php:68
+#, gp-priority: normal
+msgid "America"
+msgstr "アメリカ大陸"
+
+#: wp-admin/includes/continents-cities.php:66
+#, gp-priority: normal
+msgid "Windhoek"
+msgstr "ウィントフック"
+
+#: wp-admin/includes/continents-cities.php:65
+#, gp-priority: normal
+msgid "Tunis"
+msgstr "チュニス"
+
+#: wp-admin/includes/continents-cities.php:64
+#, gp-priority: normal
+msgid "Tripoli"
+msgstr "トリポリ"
+
+#: wp-admin/includes/continents-cities.php:63
+#, gp-priority: normal
+msgid "Timbuktu"
+msgstr "トンブクトゥ"
+
+#: wp-admin/includes/continents-cities.php:62
+#, gp-priority: normal
+msgid "Sao Tome"
+msgstr "サントメ"
+
+#: wp-admin/includes/continents-cities.php:61
+#, gp-priority: normal
+msgid "Porto-Novo"
+msgstr "ポルトノボ"
+
+#: wp-admin/includes/continents-cities.php:60
+#, gp-priority: normal
+msgid "Ouagadougou"
+msgstr "ワガドゥグー"
+
+#: wp-admin/includes/continents-cities.php:59
+#, gp-priority: normal
+msgid "Nouakchott"
+msgstr "ヌアクショット"
+
+#: wp-admin/includes/continents-cities.php:58
+#, gp-priority: normal
+msgid "Niamey"
+msgstr "ニアメ"
+
+#: wp-admin/includes/continents-cities.php:57
+#, gp-priority: normal
+msgid "Ndjamena"
+msgstr "ンジャメナ"
+
+#: wp-admin/includes/continents-cities.php:56
+#, gp-priority: normal
+msgid "Nairobi"
+msgstr "ナイロビ"
+
+#: wp-admin/includes/continents-cities.php:55
+#, gp-priority: normal
+msgid "Monrovia"
+msgstr "モンロビア"
+
+#: wp-admin/includes/continents-cities.php:54
+#, gp-priority: normal
+msgid "Mogadishu"
+msgstr "モガディシュ"
+
+#: wp-admin/includes/continents-cities.php:53
+#, gp-priority: normal
+msgid "Mbabane"
+msgstr "ムババーネ"
+
+#: wp-admin/includes/continents-cities.php:52
+#, gp-priority: normal
+msgid "Maseru"
+msgstr "マセル"
+
+#: wp-admin/includes/continents-cities.php:51
+#, gp-priority: normal
+msgid "Maputo"
+msgstr "マプト"
+
+#: wp-admin/includes/continents-cities.php:50
+#, gp-priority: normal
+msgid "Malabo"
+msgstr "マラボ"
+
+#: wp-admin/includes/continents-cities.php:49
+#, gp-priority: normal
+msgid "Lusaka"
+msgstr "ルサカ"
+
+#: wp-admin/includes/continents-cities.php:48
+#, gp-priority: normal
+msgid "Lubumbashi"
+msgstr "ルブンバシ"
+
+#: wp-admin/includes/continents-cities.php:47
+#, gp-priority: normal
+msgid "Luanda"
+msgstr "ルアンダ"
+
+#: wp-admin/includes/continents-cities.php:46
+#, gp-priority: normal
+msgid "Lome"
+msgstr "ロメ"
+
+#: wp-admin/includes/continents-cities.php:45
+#, gp-priority: normal
+msgid "Libreville"
+msgstr "リーブルビル"
+
+#: wp-admin/includes/continents-cities.php:44
+#, gp-priority: normal
+msgid "Lagos"
+msgstr "ラゴス"
+
+#: wp-admin/includes/continents-cities.php:43
+#, gp-priority: normal
+msgid "Kinshasa"
+msgstr "キンシャサ"
+
+#: wp-admin/includes/continents-cities.php:42
+#, gp-priority: normal
+msgid "Kigali"
+msgstr "キガリ"
+
+#: wp-admin/includes/continents-cities.php:41
+#, gp-priority: normal
+msgid "Khartoum"
+msgstr "ハルツーム"
+
+#: wp-admin/includes/continents-cities.php:40
+#, gp-priority: normal
+msgid "Kampala"
+msgstr "カンパラ"
+
+#: wp-admin/includes/continents-cities.php:38
+#, gp-priority: normal
+msgid "Johannesburg"
+msgstr "ヨハネスブルク"
+
+#: wp-admin/includes/continents-cities.php:37
+#, gp-priority: normal
+msgid "Harare"
+msgstr "ハラレ"
+
+#: wp-admin/includes/continents-cities.php:36
+#, gp-priority: normal
+msgid "Gaborone"
+msgstr "ハボローネ"
+
+#: wp-admin/includes/continents-cities.php:35
+#, gp-priority: normal
+msgid "Freetown"
+msgstr "フリータウン"
+
+#: wp-admin/includes/continents-cities.php:34
+#, gp-priority: normal
+msgid "El Aaiun"
+msgstr "アイウン"
+
+#: wp-admin/includes/continents-cities.php:33
+#, gp-priority: normal
+msgid "Douala"
+msgstr "ドゥアラ"
+
+#: wp-admin/includes/continents-cities.php:32
+#, gp-priority: normal
+msgid "Djibouti"
+msgstr "ジブチ"
+
+#: wp-admin/includes/continents-cities.php:31
+#, gp-priority: normal
+msgid "Dar es Salaam"
+msgstr "ダルエスサラーム"
+
+#: wp-admin/includes/continents-cities.php:30
+#, gp-priority: normal
+msgid "Dakar"
+msgstr "ダカール"
+
+#: wp-admin/includes/continents-cities.php:29
+#, gp-priority: normal
+msgid "Conakry"
+msgstr "コナクリ"
+
+#: wp-admin/includes/continents-cities.php:28
+#, gp-priority: normal
+msgid "Ceuta"
+msgstr "セウタ"
+
+#: wp-admin/includes/continents-cities.php:27
+#, gp-priority: normal
+msgid "Casablanca"
+msgstr "カサブランカ"
+
+#: wp-admin/includes/continents-cities.php:26
+#, gp-priority: normal
+msgid "Cairo"
+msgstr "カイロ"
+
+#: wp-admin/includes/continents-cities.php:25
+#, gp-priority: normal
+msgid "Bujumbura"
+msgstr "ブジュンブラ"
+
+#: wp-admin/includes/continents-cities.php:24
+#, gp-priority: normal
+msgid "Brazzaville"
+msgstr "ブラザヴィル"
+
+#: wp-admin/includes/continents-cities.php:23
+#, gp-priority: normal
+msgid "Blantyre"
+msgstr "ブランタイヤ"
+
+#: wp-admin/includes/continents-cities.php:22
+#, gp-priority: normal
+msgid "Bissau"
+msgstr "ビサウ"
+
+#: wp-admin/includes/continents-cities.php:21
+#, gp-priority: normal
+msgid "Banjul"
+msgstr "バンジュール"
+
+#: wp-admin/includes/continents-cities.php:20
+#, gp-priority: normal
+msgid "Bangui"
+msgstr "バンギ"
+
+#: wp-admin/includes/continents-cities.php:19
+#, gp-priority: normal
+msgid "Bamako"
+msgstr "バマコ"
+
+#: wp-admin/includes/continents-cities.php:18
+#, gp-priority: normal
+msgid "Asmera"
+msgstr "アスメラ"
+
+#: wp-admin/includes/continents-cities.php:17
+#, gp-priority: normal
+msgid "Asmara"
+msgstr "アスマラ"
+
+#: wp-admin/includes/continents-cities.php:16
+#, gp-priority: normal
+msgid "Algiers"
+msgstr "アルジェー"
+
+#: wp-admin/includes/continents-cities.php:15
+#, gp-priority: normal
+msgid "Addis Ababa"
+msgstr "アディスアベバ"
+
+#: wp-admin/includes/continents-cities.php:14
+#, gp-priority: normal
+msgid "Accra"
+msgstr "アクラ"
+
+#: wp-admin/includes/continents-cities.php:13
+#, gp-priority: normal
+msgid "Abidjan"
+msgstr "アビジャン"
+
+#: wp-admin/includes/continents-cities.php:12
+#, gp-priority: normal
+msgid "Africa"
+msgstr "アフリカ"

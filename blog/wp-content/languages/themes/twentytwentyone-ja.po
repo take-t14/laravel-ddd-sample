@@ -1,0 +1,895 @@
+# Translation of Themes - Twenty Twenty-One in Japanese
+# This file is distributed under the same license as the Themes - Twenty Twenty-One package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-26 09:31:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-rc.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Twenty Twenty-One\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush. With new block patterns, which allow you to create a beautiful layout in a matter of seconds, this theme’s soft colors and eye-catching — yet timeless — design will let your work shine. Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business website, or personal blog."
+msgstr "Twenty Twenty-One はアイデアのための真っ白なキャンバスであり、ブロックエディタは最高の絵筆です。一瞬で美しいレイアウトを作成可能な新しいブロックパターンとテーマの柔らかなカラーリング、目を引き時代を超越したデザインが作品を輝かせます。今すぐ試してみてください。Twenty Twenty-One はポートフォリオ、ビジネスサイト、個人ブログに最適です。"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+#, gp-priority: high
+msgid "Twenty Twenty-One"
+msgstr "Twenty Twenty-One"
+
+#: inc/template-tags.php:245
+#, gp-priority: normal
+msgid "Older <span class=\"nav-short\">posts</span>"
+msgstr "過去の<span class=\"nav-short\">投稿</span>"
+
+#: inc/template-tags.php:234
+#, gp-priority: normal
+msgid "Newer <span class=\"nav-short\">posts</span>"
+msgstr "新しい<span class=\"nav-short\">投稿</span>"
+
+#: classes/class-twenty-twenty-one-customize-notice-control.php:40
+#: classes/class-twenty-twenty-one-dark-mode.php:178
+#, gp-priority: normal
+msgid "https://wordpress.org/support/article/twenty-twenty-one/#dark-mode-support"
+msgstr "https://wordpress.org/support/article/twenty-twenty-one/#dark-mode-support"
+
+#. translators: %s: Twenty Twenty-One support article URL.
+#: classes/class-twenty-twenty-one-dark-mode.php:177
+#, gp-priority: normal
+msgid "Dark Mode is a device setting. If a visitor to your site requests it, your site will be shown with a dark background and light text. <a href=\"%s\">Learn more about Dark Mode.</a>"
+msgstr "ダークモードは端末設定です。サイトへの訪問者が要求した場合、サイトを暗い背景と明るいテキストで表示します。<a href=\"%s\">ダークモードについての詳細はこちら</a>をご覧ください。"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:181
+#, gp-priority: normal
+msgid "Dark Mode can also be turned on and off with a button that you can find in the bottom corner of the page."
+msgstr "ダークモードはページの右下にあるボタンからも有効化・無効化できます。"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:380
+#, gp-priority: normal
+msgid "This website uses LocalStorage to save the setting when Dark Mode support is turned on or off.<br> LocalStorage is necessary for the setting to work and is only used when a user clicks on the Dark Mode button.<br> No data is saved in the database or transferred."
+msgstr "このサイトでは、ダークモード対応のオン/オフ時の設定を保存するために LocalStorage を使用しています。<br>LocalStorage は設定を動作させるために必要なもので、ユーザーがダークモードボタンをクリックしたときにのみ使用されます。<br>データベースにデータが保存されたり、転送されたりすることはありません。"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:379
+#, gp-priority: normal
+msgid "Suggested text:"
+msgstr "提案テキスト:"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:378
+#, gp-priority: normal
+msgid "Twenty Twenty-One uses LocalStorage when Dark Mode support is enabled."
+msgstr "Twenty Twenty-One は、ダークモードのサポートが有効な場合に LocalStorage を使用します。"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:188
+#, gp-priority: normal
+msgid "Dark Mode support"
+msgstr "ダークモード対応"
+
+#: classes/class-twenty-twenty-one-customize-notice-control.php:41
+#, gp-priority: normal
+msgid "Learn more about Dark Mode."
+msgstr "ダークモードについてさらに詳しく読む。"
+
+#: classes/class-twenty-twenty-one-customize-notice-control.php:39
+#, gp-priority: normal
+msgid "To access the Dark Mode settings, select a light background color."
+msgstr "ダークモード設定にアクセスするには、明るい背景色を選択してください。"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:134
+#, gp-priority: normal
+msgid "Colors & Dark Mode"
+msgstr "色とダークモード"
+
+#: inc/template-tags.php:77
+#, gp-priority: normal
+msgctxt "Label for sticky posts"
+msgid "Featured post"
+msgstr "注目記事"
+
+#: inc/template-functions.php:424
+#, gp-priority: normal
+msgctxt "Post password form"
+msgid "Submit"
+msgstr "送信"
+
+#: inc/template-functions.php:424
+#, gp-priority: normal
+msgctxt "Post password form"
+msgid "Password"
+msgstr "パスワード"
+
+#: inc/template-functions.php:183
+#, gp-priority: normal
+msgctxt "Added to posts and pages that are missing titles"
+msgid "Untitled"
+msgstr "名称未設定"
+
+#: inc/block-patterns.php:117
+#, gp-priority: normal
+msgctxt "Block pattern sample content"
+msgid "Cambridge, MA, 02139"
+msgstr "千代田1-1"
+
+#: inc/block-patterns.php:117
+#, gp-priority: normal
+msgctxt "Block pattern sample content"
+msgid "123 Main Street"
+msgstr "〒100-0001 東京都千代田区"
+
+#: inc/block-patterns.php:117
+#, gp-priority: normal
+msgctxt "Block pattern sample content"
+msgid "123-456-7890"
+msgstr "123-456-7890"
+
+#: inc/block-patterns.php:117
+#, gp-priority: normal
+msgctxt "Block pattern sample content"
+msgid "example@example.com"
+msgstr "example@example.com"
+
+#: classes/class-twenty-twenty-one-customize.php:138
+#, gp-priority: normal
+msgctxt "Customizer control"
+msgid "Background color"
+msgstr "背景色"
+
+#. translators: %s: WordPress Version.
+#: inc/back-compat.php:42 inc/back-compat.php:61 inc/back-compat.php:86
+#, gp-priority: normal
+msgid "This theme requires WordPress 5.3 or newer. You are running version %s. Please upgrade."
+msgstr "このテーマは WordPress 5.3 より新しいバージョンが必要です。現在のバージョンは %s です。アップグレードしてください。"
+
+#. translators: %: Page number.
+#: image.php:48 template-parts/content/content-page.php:36
+#: template-parts/content/content-single.php:30
+#: template-parts/content/content.php:36
+#, gp-priority: normal
+msgid "Page %"
+msgstr "ページ%"
+
+#: functions.php:187
+#, gp-priority: normal
+msgctxt "Font size"
+msgid "XXXL"
+msgstr "XXXL"
+
+#: functions.php:181
+#, gp-priority: normal
+msgctxt "Font size"
+msgid "XXL"
+msgstr "XXL"
+
+#: functions.php:175
+#, gp-priority: normal
+msgctxt "Font size"
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:169
+#, gp-priority: normal
+msgctxt "Font size"
+msgid "L"
+msgstr "L"
+
+#: functions.php:163
+#, gp-priority: normal
+msgctxt "Font size"
+msgid "M"
+msgstr "M"
+
+#: functions.php:157
+#, gp-priority: normal
+msgctxt "Font size"
+msgid "S"
+msgstr "S"
+
+#: functions.php:151
+#, gp-priority: normal
+msgctxt "Font size"
+msgid "XS"
+msgstr "XS"
+
+#: comments.php:85
+#, gp-priority: normal
+msgid "Leave a comment"
+msgstr "コメントする"
+
+#. translators: %s: Comment count number.
+#: comments.php:39
+#, gp-priority: normal
+msgctxt "Comments title"
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s件のコメント"
+
+#: comments.php:34
+#, gp-priority: normal
+msgid "1 comment"
+msgstr "1件のコメント"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:334
+#, gp-priority: normal
+msgid "On"
+msgstr "オン"
+
+#: classes/class-twenty-twenty-one-dark-mode.php:331
+#, gp-priority: normal
+msgid "Off"
+msgstr "オフ"
+
+#. translators: %s: On/Off
+#: classes/class-twenty-twenty-one-dark-mode.php:321
+#, gp-priority: normal
+msgid "Dark Mode: %s"
+msgstr "ダークモード: %s"
+
+#: inc/template-functions.php:422
+#, gp-priority: normal
+msgid "This content is password protected. Please enter a password to view."
+msgstr "このコンテンツはパスワードで保護されています。表示するにはパスワードを入力してください。"
+
+#: inc/menu-functions.php:34
+#, gp-priority: normal
+msgid "Open menu"
+msgstr "メニューを開く"
+
+#: inc/block-patterns.php:107
+#, gp-priority: normal
+msgid "&#8220;Reading&#8221; by Berthe Morisot"
+msgstr "「読書する少女」ベルト・モリゾ作"
+
+#: inc/block-patterns.php:84
+#, gp-priority: normal
+msgid "&#8220;Self portrait&#8221; by Berthe Morisot"
+msgstr "「自画像」ベルト・モリゾ作"
+
+#: inc/block-patterns.php:84
+#, gp-priority: normal
+msgid "&#8220;Daffodils&#8221; by Berthe Morisot"
+msgstr "「水仙」ベルト・モリゾ作"
+
+#: inc/block-patterns.php:72 inc/block-patterns.php:107
+#: inc/starter-content.php:43
+#, gp-priority: normal
+msgid "&#8220;Roses Trémières&#8221; by Berthe Morisot"
+msgstr "「立葵」ベルト・モリゾ作"
+
+#: inc/template-functions.php:424
+#, gp-priority: normal
+msgctxt "Post password form"
+msgid "Enter"
+msgstr "確定"
+
+#: inc/starter-content.php:128
+#, gp-priority: normal
+msgctxt "Theme starter content"
+msgid "Check out the Support Forums"
+msgstr "サポートフォーラムを確認する"
+
+#: inc/starter-content.php:122
+#, gp-priority: normal
+msgctxt "Theme starter content"
+msgid "Read the Theme Documentation"
+msgstr "テーマのドキュメンテーションを読む"
+
+#: inc/starter-content.php:112
+#, gp-priority: normal
+msgctxt "Theme starter content"
+msgid "Need help?"
+msgstr "サポートが必要ですか ?"
+
+#: inc/starter-content.php:97
+#, gp-priority: normal
+msgctxt "Theme starter content"
+msgid "Twenty Twenty-One also includes an overlap style for column blocks. With a Columns block selected, open the \"Styles\" panel within the Editor sidebar. Choose the \"Overlap\" block style to try it out."
+msgstr "Twenty Twenty-One テーマにはさらに、カラムブロックの重ね合わせスタイルも含まれます。カラムブロックを選択した状態でエディターのサイドバーの「スタイル」パネルを開きます。「重ね合わせ」ブロックスタイルを選択して試してみてください。"
+
+#: inc/starter-content.php:93
+#, gp-priority: normal
+msgctxt "Theme starter content"
+msgid "Overlap columns"
+msgstr "重ね合わせカラム"
+
+#: inc/starter-content.php:87
+#, gp-priority: normal
+msgctxt "Theme starter content"
+msgid "Twenty Twenty-One includes stylish borders for your content. With an Image block selected, open the \"Styles\" panel within the Editor sidebar. Select the \"Frame\" block style to activate it."
+msgstr "Twenty Twenty-One テーマには、コンテンツのためのスタイリッシュなフレームが含まれています。画像ブロックを選択した状態で、エディターのサイドバーにある「スタイル」パネルを開いてください。その後、「フレーム」ブロックスタイルを選択して有効化します。"
+
+#: inc/starter-content.php:83
+#, gp-priority: normal
+msgctxt "Theme starter content"
+msgid "Frame your images"
+msgstr "画像にフレームを追加"
+
+#: inc/starter-content.php:77
+#, gp-priority: normal
+msgctxt "Theme starter content"
+msgid "Block patterns are pre-designed groups of blocks. To add one, select the Add Block button [+] in the toolbar at the top of the editor. Switch to the Patterns tab underneath the search bar, and choose a pattern."
+msgstr "ブロックパターンは、あらかじめデザインされたブロックのグループです。追加するには、エディターの上部にあるツールバーでブロック追加ボタン [+] を選択してください。そして、検索バーの下のパターンタブに切り替え、パターンを選択してください。"
+
+#: inc/starter-content.php:73
+#, gp-priority: normal
+msgctxt "Theme starter content"
+msgid "Add block patterns"
+msgstr "ブロックパターンを追加"
+
+#: inc/starter-content.php:30 inc/starter-content.php:33
+#, gp-priority: normal
+msgctxt "Theme starter content"
+msgid "Create your website with blocks"
+msgstr "ブロックでサイトを作成"
+
+#: inc/block-patterns.php:107
+#, gp-priority: normal
+msgid "Reading"
+msgstr "読書"
+
+#: inc/block-patterns.php:107
+#, gp-priority: normal
+msgid "Young Woman in Mauve"
+msgstr "モーブで若い女性"
+
+#: inc/block-patterns.php:107
+#, gp-priority: normal
+msgid "The Garden at Bougival"
+msgstr "ブージヴァルの庭"
+
+#: inc/block-patterns.php:107
+#, gp-priority: normal
+msgid "In the Bois de Boulogne"
+msgstr "ブローニュの森で"
+
+#: inc/block-patterns.php:107
+#, gp-priority: normal
+msgid "Villa with Orange Trees, Nice"
+msgstr "オレンジのなかのヴィラ、ニース"
+
+#: inc/block-patterns.php:107
+#, gp-priority: normal
+msgid "Roses Trémières"
+msgstr "立葵"
+
+#: inc/block-patterns.php:96
+#, gp-priority: normal
+msgid "&#8220;Villa with Orange Trees, Nice&#8221; by Berthe Morisot"
+msgstr "「オレンジのなかのヴィラ、ニース」ベルト・モリゾ作"
+
+#: inc/block-patterns.php:96
+#, gp-priority: normal
+msgid "Beautiful gardens painted by Berthe Morisot in the late 1800s"
+msgstr "ベルト・モリゾによって1800年代後半に描かれた美しい庭園"
+
+#: inc/block-patterns.php:96 inc/block-patterns.php:107
+#, gp-priority: normal
+msgid "&#8220;The Garden at Bougival&#8221; by Berthe Morisot"
+msgstr "「ブージヴァルの庭」ベルト・モリゾ作"
+
+#: inc/block-patterns.php:72 inc/block-patterns.php:107
+#: inc/starter-content.php:61
+#, gp-priority: normal
+msgid "&#8220;Young Woman in Mauve&#8221; by Berthe Morisot"
+msgstr "「モーブで若い女性」ベルト・モリゾ作"
+
+#: inc/block-patterns.php:72 inc/block-patterns.php:107
+#: inc/starter-content.php:51
+#, gp-priority: normal
+msgid "&#8220;In the Bois de Boulogne&#8221; by Berthe Morisot"
+msgstr "「ブローニュの森で」ベルト・モリゾ作"
+
+#: inc/block-patterns.php:60
+#, gp-priority: normal
+msgid "Berthe Morisot<br>(French, 1841-1895)"
+msgstr "ベルト・モリゾ<br>(フランス、1841-1895)"
+
+#: inc/block-patterns.php:60
+#, gp-priority: normal
+msgid "Playing in the Sand"
+msgstr "泥まんじゅう遊び"
+
+#: inc/block-patterns.php:60
+#, gp-priority: normal
+msgid "&#8220;Playing in the Sand&#8221; by Berthe Morisot"
+msgstr "「泥まんじゅう遊び」ベルト・モリゾ作"
+
+#. translators: %s: Parent post.
+#: image.php:61
+#, gp-priority: normal
+msgid "Published in %s"
+msgstr "投稿: %s"
+
+#: classes/class-twenty-twenty-one-customize.php:108
+#, gp-priority: normal
+msgid "Summary"
+msgstr "概要"
+
+#: classes/class-twenty-twenty-one-customize.php:85
+#, gp-priority: normal
+msgid "Excerpt Settings"
+msgstr "抜粋の設定"
+
+#: inc/block-styles.php:98
+#, gp-priority: normal
+msgid "Thick"
+msgstr "厚みのある"
+
+#: classes/class-twenty-twenty-one-customize.php:106
+#, gp-priority: normal
+msgid "On Archive Pages, posts show:"
+msgstr "アーカイブページで投稿に表示:"
+
+#. translators: %s: Author name.
+#: template-parts/post/author-bio.php:31
+#, gp-priority: normal
+msgid "View all of %s's posts."
+msgstr "%sのすべての投稿を表示。"
+
+#. translators: %s: Author name.
+#: inc/template-tags.php:49 template-parts/post/author-bio.php:19
+#, gp-priority: normal
+msgid "By %s"
+msgstr "作成者: %s"
+
+#: template-parts/content/content-none.php:61
+#, gp-priority: normal
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: template-parts/content/content-none.php:56
+#, gp-priority: normal
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#. translators: %s: Link to WP admin new post page.
+#: template-parts/content/content-none.php:43
+#, gp-priority: normal
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%s\">ここから始めましょう</a>。"
+
+#: single.php:40
+#, gp-priority: normal
+msgid "Previous post"
+msgstr "前の投稿"
+
+#: single.php:39
+#, gp-priority: normal
+msgid "Next post"
+msgstr "次の投稿"
+
+#. translators: %s: Parent post link.
+#: single.php:25
+#, gp-priority: normal
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">公開: </span><span class=\"post-title\">%s</span>"
+
+#: searchform.php:26
+#, gp-priority: normal
+msgctxt "submit button"
+msgid "Search"
+msgstr "検索"
+
+#: searchform.php:24
+#, gp-priority: normal
+msgid "Search&hellip;"
+msgstr "検索&hellip;"
+
+#. translators: %d: The number of search results.
+#: search.php:33
+#, gp-priority: normal
+msgid "We found %d result for your search."
+msgid_plural "We found %d results for your search."
+msgstr[0] "検索結果が%d件見つかりました。"
+
+#. translators: %s: Search term.
+#: search.php:21 template-parts/content/content-none.php:22
+#, gp-priority: normal
+msgid "Results for \"%s\""
+msgstr "「%s」の検索結果"
+
+#. translators: %s: List of tags.
+#: inc/template-tags.php:118 inc/template-tags.php:162
+#, gp-priority: normal
+msgid "Tagged %s"
+msgstr "タグ: %s"
+
+#. translators: %s: List of categories.
+#: inc/template-tags.php:108 inc/template-tags.php:152
+#, gp-priority: normal
+msgid "Categorized as %s"
+msgstr "カテゴリー: %s"
+
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:104 inc/template-tags.php:114
+#: inc/template-tags.php:148 inc/template-tags.php:158
+#, gp-priority: normal
+msgid ", "
+msgstr "、"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: image.php:70 image.php:95 inc/template-tags.php:92 inc/template-tags.php:135
+#: template-parts/content/content-page.php:48
+#, gp-priority: normal
+msgid "Edit %s"
+msgstr "編集 %s"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:138
+#, gp-priority: normal
+msgid "Continue reading %s"
+msgstr "続きを読む %s"
+
+#: inc/block-styles.php:71
+#, gp-priority: normal
+msgid "Dividers"
+msgstr "区切り"
+
+#: inc/block-styles.php:62
+#, gp-priority: normal
+msgid "Frame"
+msgstr "フレーム"
+
+#: inc/block-styles.php:35 inc/block-styles.php:44 inc/block-styles.php:53
+#: inc/block-styles.php:80 inc/block-styles.php:89
+#, gp-priority: normal
+msgid "Borders"
+msgstr "枠線"
+
+#: inc/block-styles.php:26
+#, gp-priority: normal
+msgid "Overlap"
+msgstr "重ね合わせ"
+
+#: inc/block-patterns.php:116
+#, gp-priority: normal
+msgctxt "Block pattern description"
+msgid "A block with 3 columns that display contact information and social media links."
+msgstr "連絡先情報とソーシャルメディアリンクを表示する3カラムブロック。"
+
+#: inc/block-patterns.php:114
+#, gp-priority: normal
+msgid "Contact information"
+msgstr "連絡先情報"
+
+#: inc/block-patterns.php:106
+#, gp-priority: normal
+msgctxt "Block pattern description"
+msgid "A list of projects with thumbnail images."
+msgstr "サムネイル画像付きのプロジェクトリスト。"
+
+#: inc/block-patterns.php:104
+#, gp-priority: normal
+msgid "Portfolio list"
+msgstr "ポートフォリオリスト"
+
+#: inc/block-patterns.php:95
+#, gp-priority: normal
+msgctxt "Block pattern description"
+msgid "An overlapping columns block with two images and a text description."
+msgstr "2つの画像とテキスト説明付きの重ね合わせカラムブロック。"
+
+#: inc/block-patterns.php:92
+#, gp-priority: normal
+msgid "Overlapping images and text"
+msgstr "画像とテキストの重ね合わせ"
+
+#: inc/block-patterns.php:83
+#, gp-priority: normal
+msgctxt "Block pattern description"
+msgid "A media & text block with a big image on the left and a smaller one with bordered frame on the right."
+msgstr "左側に大きな画像、右側にフレームで囲まれた小さな画像付きのメディアとテキストブロック。"
+
+#: inc/block-patterns.php:80
+#, gp-priority: normal
+msgid "Two images showcase"
+msgstr "2つの画像のショーケース"
+
+#: inc/block-patterns.php:71
+#, gp-priority: normal
+msgctxt "Block pattern description"
+msgid "Three images inside an overlapping columns block."
+msgstr "重ね合わせカラムブロック内の3つの画像。"
+
+#: inc/block-patterns.php:68
+#, gp-priority: normal
+msgid "Overlapping images"
+msgstr "画像の重ね合わせ"
+
+#: inc/block-patterns.php:59
+#, gp-priority: normal
+msgctxt "Block pattern description"
+msgid "A Media & Text block with a big image on the left and a heading on the right. The heading is followed by a separator and a description paragraph."
+msgstr "左側に大きな画像、右側に見出しの付いたメディアとテキストブロック。見出しの下には区切りと説明の段落があります。"
+
+#: inc/block-patterns.php:56
+#, gp-priority: normal
+msgid "Media and text article title"
+msgstr "メディアと投稿のテキストタイトル"
+
+#: inc/block-patterns.php:48
+#, gp-priority: normal
+msgid "example@example.com"
+msgstr "example@example.com"
+
+#: inc/block-patterns.php:48
+#, gp-priority: normal
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/block-patterns.php:48
+#, gp-priority: normal
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/block-patterns.php:48
+#, gp-priority: normal
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/block-patterns.php:48
+#, gp-priority: normal
+msgid "Let&#8217;s Connect."
+msgstr "つながりましょう。"
+
+#: inc/block-patterns.php:47
+#, gp-priority: normal
+msgctxt "Block pattern description"
+msgid "A huge text followed by social networks and email address links."
+msgstr "超特大のテキストと、それに続くソーシャルネットワークとメールアドレスのリンク。"
+
+#: inc/block-patterns.php:44
+#, gp-priority: normal
+msgid "Links area"
+msgstr "リンクエリア"
+
+#: inc/block-patterns.php:36
+#, gp-priority: normal
+msgid "A new portfolio default theme for WordPress"
+msgstr "WordPress の新しいポートフォリオデフォルトテーマ"
+
+#: inc/block-patterns.php:33
+#, gp-priority: normal
+msgid "Large text"
+msgstr "大きな文字"
+
+#: image.php:83
+#, gp-priority: normal
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "フルサイズ"
+
+#. translators: %s: Publish date.
+#: inc/template-tags.php:29
+#, gp-priority: normal
+msgid "Published %s"
+msgstr "投稿日: %s"
+
+#: comments.php:61 image.php:45 inc/template-tags.php:228
+#: template-parts/content/content-page.php:33
+#: template-parts/content/content-single.php:27
+#: template-parts/content/content.php:33
+#, gp-priority: normal
+msgid "Page"
+msgstr "ページ"
+
+#: template-parts/header/site-nav.php:19
+#, gp-priority: normal
+msgid "Close"
+msgstr "閉じる"
+
+#: template-parts/header/site-nav.php:16
+#, gp-priority: normal
+msgid "Menu"
+msgstr "メニュー"
+
+#: functions.php:76 inc/starter-content.php:154
+#: template-parts/header/site-nav.php:13
+#, gp-priority: normal
+msgid "Primary menu"
+msgstr "メインメニュー"
+
+#: header.php:26
+#, gp-priority: normal
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: functions.php:363
+#, gp-priority: normal
+msgid "Add widgets here to appear in your footer."
+msgstr "フッターに表示させるにはここにウィジェットを追加してください。"
+
+#: functions.php:361
+#, gp-priority: normal
+msgid "Footer"
+msgstr "フッター"
+
+#: functions.php:309
+#, gp-priority: normal
+msgid "Red to purple"
+msgstr "赤から紫へ"
+
+#: functions.php:304
+#, gp-priority: normal
+msgid "Purple to red"
+msgstr "紫から赤へ"
+
+#: functions.php:299
+#, gp-priority: normal
+msgid "Yellow to red"
+msgstr "黄色から赤へ"
+
+#: functions.php:294
+#, gp-priority: normal
+msgid "Red to yellow"
+msgstr "赤から黄色へ"
+
+#: functions.php:289
+#, gp-priority: normal
+msgid "Yellow to green"
+msgstr "黄色から緑へ"
+
+#: functions.php:284
+#, gp-priority: normal
+msgid "Green to yellow"
+msgstr "緑から黄色へ"
+
+#: functions.php:279
+#, gp-priority: normal
+msgid "Yellow to purple"
+msgstr "黄色から紫へ"
+
+#: functions.php:274
+#, gp-priority: normal
+msgid "Purple to yellow"
+msgstr "紫から黄色へ"
+
+#: functions.php:263
+#, gp-priority: normal
+msgid "White"
+msgstr "白"
+
+#: functions.php:258
+#, gp-priority: normal
+msgid "Yellow"
+msgstr "黄色"
+
+#: functions.php:253
+#, gp-priority: normal
+msgid "Orange"
+msgstr "オレンジ"
+
+#: functions.php:248
+#, gp-priority: normal
+msgid "Red"
+msgstr "赤"
+
+#: functions.php:243
+#, gp-priority: normal
+msgid "Purple"
+msgstr "紫"
+
+#: functions.php:238
+#, gp-priority: normal
+msgid "Blue"
+msgstr "青"
+
+#: functions.php:233
+#, gp-priority: normal
+msgid "Green"
+msgstr "緑"
+
+#: functions.php:228
+#, gp-priority: normal
+msgid "Gray"
+msgstr "グレー"
+
+#: functions.php:223 inc/block-styles.php:107
+#, gp-priority: normal
+msgid "Dark gray"
+msgstr "ダークグレー"
+
+#: functions.php:218
+#, gp-priority: normal
+msgid "Black"
+msgstr "黒"
+
+#: functions.php:186
+#, gp-priority: normal
+msgid "Gigantic"
+msgstr "巨大"
+
+#: functions.php:180
+#, gp-priority: normal
+msgid "Huge"
+msgstr "超特大"
+
+#: functions.php:174
+#, gp-priority: normal
+msgid "Extra large"
+msgstr "特大"
+
+#: functions.php:168
+#, gp-priority: normal
+msgid "Large"
+msgstr "大"
+
+#: functions.php:162
+#, gp-priority: normal
+msgid "Normal"
+msgstr "通常"
+
+#: functions.php:156
+#, gp-priority: normal
+msgid "Small"
+msgstr "小"
+
+#: functions.php:150
+#, gp-priority: normal
+msgid "Extra small"
+msgstr "極小"
+
+#. translators: %s: WordPress.
+#: footer.php:67
+#, gp-priority: normal
+msgid "Proudly powered by %s."
+msgstr "Proudly powered by %s."
+
+#: footer.php:24 functions.php:77 inc/starter-content.php:165
+#, gp-priority: normal
+msgid "Secondary menu"
+msgstr "サブメニュー"
+
+#: comments.php:78
+#, gp-priority: normal
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:70
+#, gp-priority: normal
+msgid "Newer comments"
+msgstr "新しいコメント"
+
+#: comments.php:66
+#, gp-priority: normal
+msgid "Older comments"
+msgstr "過去のコメント"
+
+#: classes/class-twenty-twenty-one-customize.php:109
+#, gp-priority: normal
+msgid "Full text"
+msgstr "全文を表示"
+
+#: classes/class-twenty-twenty-one-customize.php:75
+#, gp-priority: normal
+msgid "Display Site Title & Tagline"
+msgstr "サイトタイトルとキャッチフレーズを表示"
+
+#: 404.php:21
+#, gp-priority: normal
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: 404.php:16 template-parts/content/content-none.php:30
+#, gp-priority: normal
+msgid "Nothing here"
+msgstr "ここには何もありません"
+
+#. Author URI of the theme
+#: footer.php:68
+#, gp-priority: low
+msgid "https://wordpress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "the WordPress team"
+msgstr "WordPress チーム"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://wordpress.org/themes/twentytwentyone/"
+msgstr "https://ja.wordpress.org/themes/twentytwentyone/"
