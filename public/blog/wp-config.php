@@ -1,8 +1,4 @@
 <?php
-/** Enable W3 Total Cache */
-define('WP_CACHE', true); // Added by W3 Total Cache
-
-
 /**
  * WordPress の基本設定
  *
@@ -39,7 +35,7 @@ define( 'DB_USER', 'wp_user' );
 define( 'DB_PASSWORD', 'wp_pass' );
 
 /** MySQL のホスト名 */
-define( 'DB_HOST', 'mysql-innodbcluster.mysql-operator:6446' );
+define( 'DB_HOST', 'mysql-cluster-db-mysql.mysql-operator:3306' );
 
 /** データベースのテーブルを作成する際のデータベースの文字セット */
 define( 'DB_CHARSET', 'utf8mb4' );
@@ -56,14 +52,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         '9x3fGoQmUTCqP|_9%tS)0E%C_HPRR3 [_qVy+R9H;S@XHHtJej<]uu!Pm`tWwllN' );
-define( 'SECURE_AUTH_KEY',  '@(sBzJpUWO9iSkSWqhjaG#Mb~Q.$%FKye8*tc@kQ{d%&,U^)+iH9R5SAY59zgFrD' );
-define( 'LOGGED_IN_KEY',    'Mt7dO}Cd2;p;KOaQ.x, S94i7}8PYUp77nhzDy]25Zp|B1|GH<oeqUOS%oVI-1M@' );
-define( 'NONCE_KEY',        'f^$t^1|EH9#jw]>JhVk_b^H[QS#fw9~iP}([+gC/kXA<+XySX!rRy_=yc6!_cRz8' );
-define( 'AUTH_SALT',        'I@s4rHx7bWAT 7|USnDj 5%[(&X|DsKq_q$Hic:iCx1O`)2ahr%,XE{v9U#HPp_ ' );
-define( 'SECURE_AUTH_SALT', 'ZBF~,R9SNFy&Kfi$vtwv*hkxU>`Py#lE-wJYRnwrFIpk|Yz>$%CMjftTK[@<Xxbo' );
-define( 'LOGGED_IN_SALT',   '`|El]aiW>#F?Kt)$ZH5N#?U){5/=5a[L-@h(8iZlp(~yD%yotWHF%;tcik4;hC^_' );
-define( 'NONCE_SALT',       '37u*]bL9Hkdvp*)-ZsOM%GXue) VyB<_BAB@/}lVoIhFu*ltYiR/%/z81>?]f8Cv' );
+define( 'AUTH_KEY',         '|WuLIU{@3O%4?,Advn koFPPT(CspoQ!8yWcw(py#46@1PgrZ_w%j7>uW3W`v_k}' );
+define( 'SECURE_AUTH_KEY',  ')tzbd=v%4.IiomyM&.j9y1l&Tnx&RsO!lt05r^y#0Q`%)/`W4p9qeCd(3!KHwOLb' );
+define( 'LOGGED_IN_KEY',    'L)j$);+549J`%4kX9YViT*>0Qzxa4GraY-ro.bhR=R1<pd0cP8`Pi&#KGSmWIco3' );
+define( 'NONCE_KEY',        't)B[S9kAO7/=C*<dgg*2g>CMYB8_w@kfd5n<fK|]2aRC47y(T}:(fJV|*Ry GHAN' );
+define( 'AUTH_SALT',        'jqLBK5)0wXX9p=[)lcuq+^|7j5ELt;z?0Bgu]XB#ZoCR~FQ0p2f+ r[S0j)>D_kD' );
+define( 'SECURE_AUTH_SALT', 'n2$ax=_3@*#skq]uT s9?mbHM7#x{ s-D8rw.vANBm{}iyw0GiVklD(=<?@Ef[^h' );
+define( 'LOGGED_IN_SALT',   'E$]mCps9xL=xv3T`/C?#K=+F|k<(/FaHT{7SZ:~6te|so(?t6t+e(4zx|LC[ro8G' );
+define( 'NONCE_SALT',       'DHj`~SL}-:Zm)H05BO`Udw->=%W+B1f(,NV1?0CP0K7=43A|@5?Cm+F%7}[?WeF;' );
 
 /**#@-*/
 
@@ -95,7 +91,7 @@ define( 'WP_DEBUG', false );
 
 /** Absolute path to the WordPress directory. */
 if ( ! defined( 'ABSPATH' ) ) {
-        define( 'ABSPATH', __DIR__ . '/' );
+	define( 'ABSPATH', __DIR__ . '/' );
 }
 
 /** Sets up WordPress vars and included files. */
