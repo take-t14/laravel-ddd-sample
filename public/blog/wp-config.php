@@ -35,7 +35,7 @@ define( 'DB_USER', 'wp_user' );
 define( 'DB_PASSWORD', 'wp_pass' );
 
 /** MySQL のホスト名 */
-define( 'DB_HOST', 'mysql-cluster-db-mysql.mysql-operator:3306' );
+define( 'DB_HOST', 'mysql.mysql:3306' );
 
 /** データベースのテーブルを作成する際のデータベースの文字セット */
 define( 'DB_CHARSET', 'utf8mb4' );
